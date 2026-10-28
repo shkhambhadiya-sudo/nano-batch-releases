@@ -1,0 +1,346 @@
+{
+ "properties": [
+  {
+   "matrix_id": "mp1",
+   "deeds_project_id": "p1",
+   "name": "Aurora Skincare Store",
+   "period": {
+    "from": "2026-10-21",
+    "to": "2026-10-28"
+   },
+   "sessions": 75033,
+   "sessions_prev": 73551,
+   "revenue": 172587,
+   "revenue_prev": 123492,
+   "ad_spend": 263949,
+   "ad_spend_prev": 263038,
+   "clicks": 45019,
+   "clicks_prev": 44986,
+   "impressions": 1500660,
+   "impressions_prev": 1524396
+  },
+  {
+   "matrix_id": "mp2",
+   "deeds_project_id": "p2",
+   "name": "Nimbus Apparel",
+   "period": {
+    "from": "2026-10-21",
+    "to": "2026-10-28"
+   },
+   "sessions": 2865,
+   "sessions_prev": 2556,
+   "revenue": 386293,
+   "revenue_prev": 446828,
+   "ad_spend": 450804,
+   "ad_spend_prev": 450372,
+   "clicks": 1719,
+   "clicks_prev": 1579,
+   "impressions": 57300,
+   "impressions_prev": 56515
+  },
+  {
+   "matrix_id": "mp3",
+   "deeds_project_id": "p3",
+   "name": "Terra Home Decor",
+   "period": {
+    "from": "2026-10-21",
+    "to": "2026-10-28"
+   },
+   "sessions": 57812,
+   "sessions_prev": 43083,
+   "revenue": 928322,
+   "revenue_prev": 1030096,
+   "ad_spend": 364390,
+   "ad_spend_prev": 384231,
+   "clicks": 34687,
+   "clicks_prev": 28145,
+   "impressions": 1156240,
+   "impressions_prev": 1206964
+  },
+  {
+   "matrix_id": "mp4",
+   "deeds_project_id": "p4",
+   "name": "Pulse Fitness Gear",
+   "period": {
+    "from": "2026-10-21",
+    "to": "2026-10-28"
+   },
+   "sessions": 45313,
+   "sessions_prev": 45601,
+   "revenue": 1745756,
+   "revenue_prev": 1724353,
+   "ad_spend": 59270,
+   "ad_spend_prev": 68695,
+   "clicks": 27187,
+   "clicks_prev": 22118,
+   "impressions": 906260,
+   "impressions_prev": 985352
+  },
+  {
+   "matrix_id": "mp5",
+   "deeds_project_id": "p5",
+   "name": "Lumen Lighting",
+   "period": {
+    "from": "2026-10-21",
+    "to": "2026-10-28"
+   },
+   "sessions": 18633,
+   "sessions_prev": 22676,
+   "revenue": 760109,
+   "revenue_prev": 678721,
+   "ad_spend": 59527,
+   "ad_spend_prev": 58920,
+   "clicks": 11179,
+   "clicks_prev": 11294,
+   "impressions": 372660,
+   "impressions_prev": 412992
+  },
+  {
+   "matrix_id": "mp6",
+   "deeds_project_id": "p6",
+   "name": "Verde Garden Supply",
+   "period": {
+    "from": "2026-10-21",
+    "to": "2026-10-28"
+   },
+   "sessions": 29620,
+   "sessions_prev": 26811,
+   "revenue": 645907,
+   "revenue_prev": 517537,
+   "ad_spend": 238164,
+   "ad_spend_prev": 195553,
+   "clicks": 17772,
+   "clicks_prev": 16273,
+   "impressions": 592400,
+   "impressions_prev": 558083
+  },
+  {
+   "matrix_id": "mp7",
+   "deeds_project_id": "p7",
+   "name": "Orbit Electronics",
+   "period": {
+    "from": "2026-10-21",
+    "to": "2026-10-28"
+   },
+   "sessions": 66714,
+   "sessions_prev": 66864,
+   "revenue": 896682,
+   "revenue_prev": 732910,
+   "ad_spend": 184966,
+   "ad_spend_prev": 185441,
+   "clicks": 40028,
+   "clicks_prev": 47633,
+   "impressions": 1334280,
+   "impressions_prev": 1416770
+  },
+  {
+   "matrix_id": "mp8",
+   "deeds_project_id": "p8",
+   "name": "Saffron Kitchen",
+   "period": {
+    "from": "2026-10-21",
+    "to": "2026-10-28"
+   },
+   "sessions": 17457,
+   "sessions_prev": 15541,
+   "revenue": 743939,
+   "revenue_prev": 624444,
+   "ad_spend": 110825,
+   "ad_spend_prev": 114657,
+   "clicks": 10474,
+   "clicks_prev": 11039,
+   "impressions": 349140,
+   "impressions_prev": 388832
+  },
+  {
+   "matrix_id": "mp9",
+   "deeds_project_id": "p9",
+   "name": "Atlas Travel Bags",
+   "period": {
+    "from": "2026-10-21",
+    "to": "2026-10-28"
+   },
+   "sessions": 7249,
+   "sessions_prev": 7485,
+   "revenue": 886508,
+   "revenue_prev": 819863,
+   "ad_spend": 388890,
+   "ad_spend_prev": 400407,
+   "clicks": 4349,
+   "clicks_prev": 4172,
+   "impressions": 144980,
+   "impressions_prev": 122276
+  },
+  {
+   "matrix_id": "mp10",
+   "deeds_project_id": "p10",
+   "name": "Breeze Baby Care",
+   "period": {
+    "from": "2026-10-21",
+    "to": "2026-10-28"
+   },
+   "sessions": 8081,
+   "sessions_prev": 10124,
+   "revenue": 448334,
+   "revenue_prev": 487315,
+   "ad_spend": 440944,
+   "ad_spend_prev": 468814,
+   "clicks": 4848,
+   "clicks_prev": 5409,
+   "impressions": 161620,
+   "impressions_prev": 188114
+  },
+  {
+   "matrix_id": "mp11",
+   "deeds_project_id": "p11",
+   "name": "Ember Candles",
+   "period": {
+    "from": "2026-10-21",
+    "to": "2026-10-28"
+   },
+   "sessions": 51288,
+   "sessions_prev": 55190,
+   "revenue": 1343311,
+   "revenue_prev": 1554375,
+   "ad_spend": 87097,
+   "ad_spend_prev": 90452,
+   "clicks": 30772,
+   "clicks_prev": 33000,
+   "impressions": 1025760,
+   "impressions_prev": 907798
+  },
+  {
+   "matrix_id": "mp12",
+   "deeds_project_id": "p12",
+   "name": "Quill Stationery",
+   "period": {
+    "from": "2026-10-21",
+    "to": "2026-10-28"
+   },
+   "sessions": 62015,
+   "sessions_prev": 49881,
+   "revenue": 1361302,
+   "revenue_prev": 1539490,
+   "ad_spend": 409861,
+   "ad_spend_prev": 470390,
+   "clicks": 37209,
+   "clicks_prev": 36041,
+   "impressions": 1240300,
+   "impressions_prev": 1042152
+  },
+  {
+   "matrix_id": "mp13",
+   "deeds_project_id": "p13",
+   "name": "Zen Yoga Studio App",
+   "period": {
+    "from": "2026-10-21",
+    "to": "2026-10-28"
+   },
+   "sessions": 3759,
+   "sessions_prev": 4486,
+   "revenue": 823575,
+   "revenue_prev": 1012364,
+   "ad_spend": 467138,
+   "ad_spend_prev": 478741,
+   "clicks": 2255,
+   "clicks_prev": 2037,
+   "impressions": 75180,
+   "impressions_prev": 69226
+  },
+  {
+   "matrix_id": "mp14",
+   "deeds_project_id": "p14",
+   "name": "Nano Batch Desktop",
+   "period": {
+    "from": "2026-10-21",
+    "to": "2026-10-28"
+   },
+   "sessions": 57284,
+   "sessions_prev": 40799,
+   "revenue": 121808,
+   "revenue_prev": 128271,
+   "ad_spend": 176973,
+   "ad_spend_prev": 182514,
+   "clicks": 34370,
+   "clicks_prev": 40059,
+   "impressions": 1145680,
+   "impressions_prev": 1144655
+  },
+  {
+   "matrix_id": "mp15",
+   "deeds_project_id": "p15",
+   "name": "11deeds Platform",
+   "period": {
+    "from": "2026-10-21",
+    "to": "2026-10-28"
+   },
+   "sessions": 70439,
+   "sessions_prev": 54330,
+   "revenue": 132584,
+   "revenue_prev": 165500,
+   "ad_spend": 442409,
+   "ad_spend_prev": 455738,
+   "clicks": 42263,
+   "clicks_prev": 49340,
+   "impressions": 1408780,
+   "impressions_prev": 1378616
+  },
+  {
+   "matrix_id": "mp16",
+   "deeds_project_id": "p16",
+   "name": "11matrix Analytics",
+   "period": {
+    "from": "2026-10-21",
+    "to": "2026-10-28"
+   },
+   "sessions": 3852,
+   "sessions_prev": 4068,
+   "revenue": 1475985,
+   "revenue_prev": 2058262,
+   "ad_spend": 212974,
+   "ad_spend_prev": 226552,
+   "clicks": 2311,
+   "clicks_prev": 1992,
+   "impressions": 77040,
+   "impressions_prev": 85356
+  },
+  {
+   "matrix_id": "mp17",
+   "deeds_project_id": "p17",
+   "name": "Internal Hiring Portal",
+   "period": {
+    "from": "2026-10-21",
+    "to": "2026-10-28"
+   },
+   "sessions": 73933,
+   "sessions_prev": 80343,
+   "revenue": 264000,
+   "revenue_prev": 203232,
+   "ad_spend": 53476,
+   "ad_spend_prev": 46027,
+   "clicks": 44359,
+   "clicks_prev": 35763,
+   "impressions": 1478660,
+   "impressions_prev": 1185757
+  },
+  {
+   "matrix_id": "mp18",
+   "deeds_project_id": "p18",
+   "name": "Brand Studio Agency",
+   "period": {
+    "from": "2026-10-21",
+    "to": "2026-10-28"
+   },
+   "sessions": 17947,
+   "sessions_prev": 14913,
+   "revenue": 1850335,
+   "revenue_prev": 1289827,
+   "ad_spend": 56210,
+   "ad_spend_prev": 55587,
+   "clicks": 10768,
+   "clicks_prev": 9800,
+   "impressions": 358940,
+   "impressions_prev": 368845
+  }
+ ]
+}

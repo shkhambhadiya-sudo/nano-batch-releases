@@ -1,0 +1,5611 @@
+{
+ "users": [
+  {
+   "id": "u1",
+   "name": "Vihaan B.",
+   "role": "UI designer",
+   "teams": [
+    "Design"
+   ],
+   "skills": [
+    "ui",
+    "design"
+   ],
+   "last_completed_at": "2026-09-18"
+  },
+  {
+   "id": "u2",
+   "name": "Diya C.",
+   "role": "Support agent",
+   "teams": [
+    "Support"
+   ],
+   "skills": [
+    "support",
+    "support"
+   ],
+   "last_completed_at": "2026-10-26"
+  },
+  {
+   "id": "u3",
+   "name": "Ishaan D.",
+   "role": "Copywriter",
+   "teams": [
+    "Content"
+   ],
+   "skills": [
+    "copywriter",
+    "content"
+   ],
+   "last_completed_at": "2026-10-13"
+  },
+  {
+   "id": "u4",
+   "name": "Ananya E.",
+   "role": "Copywriter",
+   "teams": [
+    "Content"
+   ],
+   "skills": [
+    "copywriter",
+    "content"
+   ],
+   "last_completed_at": "2026-04-21"
+  },
+  {
+   "id": "u5",
+   "name": "Kabir F.",
+   "role": "Backend dev",
+   "teams": [
+    "Dev"
+   ],
+   "skills": [
+    "backend",
+    "dev"
+   ],
+   "last_completed_at": "2026-10-26"
+  },
+  {
+   "id": "u6",
+   "name": "Meera G.",
+   "role": "QA",
+   "teams": [
+    "Ops"
+   ],
+   "skills": [
+    "qa",
+    "ops"
+   ],
+   "last_completed_at": "2026-10-26"
+  },
+  {
+   "id": "u7",
+   "name": "Rohan H.",
+   "role": "Backend dev",
+   "teams": [
+    "Dev"
+   ],
+   "skills": [
+    "backend",
+    "dev"
+   ],
+   "last_completed_at": "2026-04-21"
+  },
+  {
+   "id": "u8",
+   "name": "Sara I.",
+   "role": "Ops coordinator",
+   "teams": [
+    "Ops"
+   ],
+   "skills": [
+    "ops",
+    "ops"
+   ],
+   "last_completed_at": "2026-10-26"
+  },
+  {
+   "id": "u9",
+   "name": "Dev J.",
+   "role": "Shopify dev",
+   "teams": [
+    "Dev"
+   ],
+   "skills": [
+    "shopify",
+    "dev"
+   ],
+   "last_completed_at": "2026-10-27"
+  },
+  {
+   "id": "u10",
+   "name": "Nisha K.",
+   "role": "Video editor",
+   "teams": [
+    "Content"
+   ],
+   "skills": [
+    "video",
+    "content"
+   ],
+   "last_completed_at": "2026-10-27"
+  },
+  {
+   "id": "u11",
+   "name": "Arjun L.",
+   "role": "Backend dev",
+   "teams": [
+    "Dev"
+   ],
+   "skills": [
+    "backend",
+    "dev"
+   ],
+   "last_completed_at": "2026-04-21"
+  },
+  {
+   "id": "u12",
+   "name": "Priya M.",
+   "role": "Frontend dev",
+   "teams": [
+    "Dev"
+   ],
+   "skills": [
+    "frontend",
+    "dev"
+   ],
+   "last_completed_at": "2026-09-18"
+  },
+  {
+   "id": "u13",
+   "name": "Kunal N.",
+   "role": "Shopify dev",
+   "teams": [
+    "Dev"
+   ],
+   "skills": [
+    "shopify",
+    "dev"
+   ],
+   "last_completed_at": "2026-10-26"
+  },
+  {
+   "id": "u14",
+   "name": "Tara O.",
+   "role": "Video editor",
+   "teams": [
+    "Content"
+   ],
+   "skills": [
+    "video",
+    "content"
+   ],
+   "last_completed_at": "2026-04-21"
+  },
+  {
+   "id": "u15",
+   "name": "Yash P.",
+   "role": "Support agent",
+   "teams": [
+    "Support"
+   ],
+   "skills": [
+    "support",
+    "support"
+   ],
+   "last_completed_at": "2026-10-26"
+  },
+  {
+   "id": "u16",
+   "name": "Riya Q.",
+   "role": "Copywriter",
+   "teams": [
+    "Content"
+   ],
+   "skills": [
+    "copywriter",
+    "content"
+   ],
+   "last_completed_at": "2026-10-13"
+  },
+  {
+   "id": "u17",
+   "name": "Om R.",
+   "role": "Performance marketer",
+   "teams": [
+    "Growth"
+   ],
+   "skills": [
+    "performance",
+    "growth"
+   ],
+   "last_completed_at": "2026-10-27"
+  },
+  {
+   "id": "u18",
+   "name": "Zara S.",
+   "role": "Copywriter",
+   "teams": [
+    "Content"
+   ],
+   "skills": [
+    "copywriter",
+    "content"
+   ],
+   "last_completed_at": "2026-06-30"
+  },
+  {
+   "id": "u19",
+   "name": "Neel T.",
+   "role": "Support agent",
+   "teams": [
+    "Support"
+   ],
+   "skills": [
+    "support",
+    "support"
+   ],
+   "last_completed_at": "2026-10-13"
+  },
+  {
+   "id": "u20",
+   "name": "Aarav U.",
+   "role": "QA",
+   "teams": [
+    "Ops"
+   ],
+   "skills": [
+    "qa",
+    "ops"
+   ],
+   "last_completed_at": "2026-10-13"
+  },
+  {
+   "id": "u21",
+   "name": "Vihaan V.",
+   "role": "UI designer",
+   "teams": [
+    "Design"
+   ],
+   "skills": [
+    "ui",
+    "design"
+   ],
+   "last_completed_at": "2026-10-25"
+  },
+  {
+   "id": "u22",
+   "name": "Diya W.",
+   "role": "Support agent",
+   "teams": [
+    "Support"
+   ],
+   "skills": [
+    "support",
+    "support"
+   ],
+   "last_completed_at": "2026-10-26"
+  },
+  {
+   "id": "u23",
+   "name": "Ishaan X.",
+   "role": "Video editor",
+   "teams": [
+    "Content"
+   ],
+   "skills": [
+    "video",
+    "content"
+   ],
+   "last_completed_at": "2026-04-21"
+  },
+  {
+   "id": "u24",
+   "name": "Ananya Y.",
+   "role": "QA",
+   "teams": [
+    "Ops"
+   ],
+   "skills": [
+    "qa",
+    "ops"
+   ],
+   "last_completed_at": "2026-06-30"
+  },
+  {
+   "id": "u25",
+   "name": "Kabir Z.",
+   "role": "UI designer",
+   "teams": [
+    "Design"
+   ],
+   "skills": [
+    "ui",
+    "design"
+   ],
+   "last_completed_at": "2026-10-26"
+  },
+  {
+   "id": "u26",
+   "name": "Meera A.",
+   "role": "Video editor",
+   "teams": [
+    "Content"
+   ],
+   "skills": [
+    "video",
+    "content"
+   ],
+   "last_completed_at": "2026-10-25"
+  },
+  {
+   "id": "u27",
+   "name": "Rohan B.",
+   "role": "UI designer",
+   "teams": [
+    "Design"
+   ],
+   "skills": [
+    "ui",
+    "design"
+   ],
+   "last_completed_at": "2026-06-30"
+  },
+  {
+   "id": "u28",
+   "name": "Sara C.",
+   "role": "Ops coordinator",
+   "teams": [
+    "Ops"
+   ],
+   "skills": [
+    "ops",
+    "ops"
+   ],
+   "last_completed_at": "2026-10-26"
+  },
+  {
+   "id": "u29",
+   "name": "Dev D.",
+   "role": "Video editor",
+   "teams": [
+    "Content"
+   ],
+   "skills": [
+    "video",
+    "content"
+   ],
+   "last_completed_at": "2026-10-13"
+  },
+  {
+   "id": "u30",
+   "name": "Nisha E.",
+   "role": "Support agent",
+   "teams": [
+    "Support"
+   ],
+   "skills": [
+    "support",
+    "support"
+   ],
+   "last_completed_at": "2026-06-30"
+  },
+  {
+   "id": "u31",
+   "name": "Arjun F.",
+   "role": "Video editor",
+   "teams": [
+    "Content"
+   ],
+   "skills": [
+    "video",
+    "content"
+   ],
+   "last_completed_at": "2026-10-26"
+  },
+  {
+   "id": "u32",
+   "name": "Priya G.",
+   "role": "SEO specialist",
+   "teams": [
+    "Growth"
+   ],
+   "skills": [
+    "seo",
+    "growth"
+   ],
+   "last_completed_at": "2026-06-30"
+  },
+  {
+   "id": "u33",
+   "name": "Kunal H.",
+   "role": "Support agent",
+   "teams": [
+    "Support"
+   ],
+   "skills": [
+    "support",
+    "support"
+   ],
+   "last_completed_at": "2026-10-27"
+  },
+  {
+   "id": "u34",
+   "name": "Tara I.",
+   "role": "Support agent",
+   "teams": [
+    "Support"
+   ],
+   "skills": [
+    "support",
+    "support"
+   ],
+   "last_completed_at": "2026-06-30"
+  },
+  {
+   "id": "u35",
+   "name": "Yash J.",
+   "role": "Graphic designer",
+   "teams": [
+    "Design"
+   ],
+   "skills": [
+    "graphic",
+    "design"
+   ],
+   "last_completed_at": "2026-10-13"
+  },
+  {
+   "id": "u36",
+   "name": "Riya K.",
+   "role": "SEO specialist",
+   "teams": [
+    "Growth"
+   ],
+   "skills": [
+    "seo",
+    "growth"
+   ],
+   "last_completed_at": "2026-10-13"
+  },
+  {
+   "id": "u37",
+   "name": "Om L.",
+   "role": "Shopify dev",
+   "teams": [
+    "Dev"
+   ],
+   "skills": [
+    "shopify",
+    "dev"
+   ],
+   "last_completed_at": "2026-10-26"
+  },
+  {
+   "id": "u38",
+   "name": "Zara M.",
+   "role": "Ops coordinator",
+   "teams": [
+    "Ops"
+   ],
+   "skills": [
+    "ops",
+    "ops"
+   ],
+   "last_completed_at": "2026-10-23"
+  },
+  {
+   "id": "u39",
+   "name": "Neel N.",
+   "role": "UI designer",
+   "teams": [
+    "Design"
+   ],
+   "skills": [
+    "ui",
+    "design"
+   ],
+   "last_completed_at": "2026-10-23"
+  },
+  {
+   "id": "u40",
+   "name": "Aarav O.",
+   "role": "QA",
+   "teams": [
+    "Ops"
+   ],
+   "skills": [
+    "qa",
+    "ops"
+   ],
+   "last_completed_at": "2026-06-30"
+  }
+ ],
+ "projects": [
+  {
+   "id": "p1",
+   "name": "Aurora Skincare Store",
+   "team": "Growth"
+  },
+  {
+   "id": "p2",
+   "name": "Nimbus Apparel",
+   "team": "Dev"
+  },
+  {
+   "id": "p3",
+   "name": "Terra Home Decor",
+   "team": "Ops"
+  },
+  {
+   "id": "p4",
+   "name": "Pulse Fitness Gear",
+   "team": "Ops"
+  },
+  {
+   "id": "p5",
+   "name": "Lumen Lighting",
+   "team": "Content"
+  },
+  {
+   "id": "p6",
+   "name": "Verde Garden Supply",
+   "team": "Design"
+  },
+  {
+   "id": "p7",
+   "name": "Orbit Electronics",
+   "team": "Dev"
+  },
+  {
+   "id": "p8",
+   "name": "Saffron Kitchen",
+   "team": "Ops"
+  },
+  {
+   "id": "p9",
+   "name": "Atlas Travel Bags",
+   "team": "Content"
+  },
+  {
+   "id": "p10",
+   "name": "Breeze Baby Care",
+   "team": "Design"
+  },
+  {
+   "id": "p11",
+   "name": "Ember Candles",
+   "team": "Support"
+  },
+  {
+   "id": "p12",
+   "name": "Quill Stationery",
+   "team": "Ops"
+  },
+  {
+   "id": "p13",
+   "name": "Zen Yoga Studio App",
+   "team": "Design"
+  },
+  {
+   "id": "p14",
+   "name": "Nano Batch Desktop",
+   "team": "Support"
+  },
+  {
+   "id": "p15",
+   "name": "11deeds Platform",
+   "team": "Ops"
+  },
+  {
+   "id": "p16",
+   "name": "11matrix Analytics",
+   "team": "Dev"
+  },
+  {
+   "id": "p17",
+   "name": "Internal Hiring Portal",
+   "team": "Dev"
+  },
+  {
+   "id": "p18",
+   "name": "Brand Studio Agency",
+   "team": "Growth"
+  }
+ ],
+ "tasks": [
+  {
+   "id": "t1",
+   "project_id": "p1",
+   "assignee_id": "u15",
+   "title": "Launch Diwali campaign (Aurora)",
+   "description": "",
+   "status": "in_progress",
+   "priority": "high",
+   "due_date": "2026-10-22",
+   "last_activity_at": "2026-04-20T10:00:00+00:00",
+   "time_consumed_min": 45000,
+   "comments": [
+    {
+     "user_id": "u15",
+     "text": "Blocked on API access",
+     "at": "2026-05-01T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t2",
+   "project_id": "p1",
+   "assignee_id": "u1",
+   "title": "Bundle offers (Aurora)",
+   "description": "",
+   "status": "in_progress",
+   "priority": "medium",
+   "due_date": "2026-11-03",
+   "last_activity_at": "2026-04-20T10:00:00+00:00",
+   "time_consumed_min": 45000,
+   "comments": [
+    {
+     "user_id": "u1",
+     "text": "Waiting for assets from design",
+     "at": "2026-10-26T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t3",
+   "project_id": "p1",
+   "assignee_id": "u30",
+   "title": "Bundle offers (Aurora)",
+   "description": "",
+   "status": "in_progress",
+   "priority": "high",
+   "due_date": "2026-11-28",
+   "last_activity_at": "2026-04-20T10:00:00+00:00",
+   "time_consumed_min": 45000,
+   "comments": [
+    {
+     "user_id": "u30",
+     "text": "Almost done",
+     "at": "2026-05-01T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t4",
+   "project_id": "p1",
+   "assignee_id": "u7",
+   "title": "Inventory sync script (Aurora)",
+   "description": "",
+   "status": "done",
+   "priority": "low",
+   "due_date": null,
+   "last_activity_at": "2026-09-27T10:00:00+00:00",
+   "time_consumed_min": 480,
+   "comments": [
+    {
+     "user_id": "u7",
+     "text": "Working on it",
+     "at": "2026-09-27T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t5",
+   "project_id": "p1",
+   "assignee_id": "u29",
+   "title": "Improve page speed (Aurora)",
+   "description": "",
+   "status": "in_progress",
+   "priority": "critical",
+   "due_date": "2026-10-15",
+   "last_activity_at": "2026-10-26T10:00:00+00:00",
+   "time_consumed_min": 0,
+   "comments": [
+    {
+     "user_id": "u29",
+     "text": "Working on it",
+     "at": "2026-10-26T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t6",
+   "project_id": "p1",
+   "assignee_id": "u37",
+   "title": "Write 10 blog posts (Aurora)",
+   "description": "",
+   "status": "todo",
+   "priority": "medium",
+   "due_date": "2026-11-11",
+   "last_activity_at": "2026-10-26T10:00:00+00:00",
+   "time_consumed_min": 0,
+   "comments": [
+    {
+     "user_id": "u37",
+     "text": "Working on it",
+     "at": "2026-10-26T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t7",
+   "project_id": "p1",
+   "assignee_id": "u40",
+   "title": "Audit ad accounts (Aurora)",
+   "description": "",
+   "status": "in_progress",
+   "priority": "medium",
+   "due_date": "2026-10-17",
+   "last_activity_at": "2026-10-18T10:00:00+00:00",
+   "time_consumed_min": 4000,
+   "comments": [
+    {
+     "user_id": "u40",
+     "text": "Almost done",
+     "at": "2026-10-18T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t8",
+   "project_id": "p1",
+   "assignee_id": "u8",
+   "title": "Hire 2 support agents (Aurora)",
+   "description": "",
+   "status": "in_progress",
+   "priority": "high",
+   "due_date": "2026-11-06",
+   "last_activity_at": "2026-10-08T10:00:00+00:00",
+   "time_consumed_min": 1500,
+   "comments": [
+    {
+     "user_id": "u8",
+     "text": "Working on it",
+     "at": "2026-10-08T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t9",
+   "project_id": "p2",
+   "assignee_id": "u22",
+   "title": "Migrate theme to 2.0 (Nimbus)",
+   "description": "",
+   "status": "in_progress",
+   "priority": "critical",
+   "due_date": "2026-11-07",
+   "last_activity_at": "2026-10-24T10:00:00+00:00",
+   "time_consumed_min": 0,
+   "comments": [
+    {
+     "user_id": "u22",
+     "text": "Waiting for assets from design",
+     "at": "2026-10-24T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t10",
+   "project_id": "p2",
+   "assignee_id": "u10",
+   "title": "Bundle offers (Nimbus)",
+   "description": "",
+   "status": "done",
+   "priority": "low",
+   "due_date": null,
+   "last_activity_at": "2026-09-13T10:00:00+00:00",
+   "time_consumed_min": 1500,
+   "comments": [
+    {
+     "user_id": "u10",
+     "text": "Working on it",
+     "at": "2026-09-13T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t11",
+   "project_id": "p2",
+   "assignee_id": "u34",
+   "title": "Migrate theme to 2.0 (Nimbus)",
+   "description": "",
+   "status": "blocked",
+   "priority": "medium",
+   "due_date": "2026-12-05",
+   "last_activity_at": "2026-10-21T10:00:00+00:00",
+   "time_consumed_min": 480,
+   "comments": [
+    {
+     "user_id": "u34",
+     "text": "Need clarification",
+     "at": "2026-10-21T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t12",
+   "project_id": "p2",
+   "assignee_id": "u15",
+   "title": "Negotiate courier rates (Nimbus)",
+   "description": "",
+   "status": "done",
+   "priority": "medium",
+   "due_date": null,
+   "last_activity_at": "2026-09-18T10:00:00+00:00",
+   "time_consumed_min": 12000,
+   "comments": [
+    {
+     "user_id": "u15",
+     "text": "Waiting for assets from design",
+     "at": "2026-09-18T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t13",
+   "project_id": "p2",
+   "assignee_id": "u34",
+   "title": "Launch Diwali campaign (Nimbus)",
+   "description": "",
+   "status": "in_progress",
+   "priority": "low",
+   "due_date": "2026-10-30",
+   "last_activity_at": "2026-10-08T10:00:00+00:00",
+   "time_consumed_min": 1500,
+   "comments": [
+    {
+     "user_id": "u34",
+     "text": "Almost done",
+     "at": "2026-10-08T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t14",
+   "project_id": "p2",
+   "assignee_id": "u13",
+   "title": "Refund policy update (Nimbus)",
+   "description": "",
+   "status": "blocked",
+   "priority": "medium",
+   "due_date": "2026-10-30",
+   "last_activity_at": "2026-07-30T10:00:00+00:00",
+   "time_consumed_min": 4000,
+   "comments": [
+    {
+     "user_id": "u13",
+     "text": "Working on it",
+     "at": "2026-07-30T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t15",
+   "project_id": "p2",
+   "assignee_id": "u7",
+   "title": "Negotiate courier rates (Nimbus)",
+   "description": "",
+   "status": "in_progress",
+   "priority": "medium",
+   "due_date": "2026-11-07",
+   "last_activity_at": "2026-10-25T10:00:00+00:00",
+   "time_consumed_min": 480,
+   "comments": [
+    {
+     "user_id": "u7",
+     "text": "Almost done",
+     "at": "2026-10-25T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t16",
+   "project_id": "p2",
+   "assignee_id": "u31",
+   "title": "Redesign PDP (Nimbus)",
+   "description": "",
+   "status": "todo",
+   "priority": "low",
+   "due_date": "2026-10-30",
+   "last_activity_at": "2026-05-01T10:00:00+00:00",
+   "time_consumed_min": 12000,
+   "comments": [
+    {
+     "user_id": "u31",
+     "text": "Waiting for assets from design",
+     "at": "2026-05-01T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t17",
+   "project_id": "p3",
+   "assignee_id": "u28",
+   "title": "Redesign PDP (Terra)",
+   "description": "",
+   "status": "in_progress",
+   "priority": "high",
+   "due_date": "2026-10-29",
+   "last_activity_at": "2026-05-01T10:00:00+00:00",
+   "time_consumed_min": 30000,
+   "comments": [
+    {
+     "user_id": "u28",
+     "text": "Almost done",
+     "at": "2026-05-01T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t18",
+   "project_id": "p3",
+   "assignee_id": "u11",
+   "title": "Launch Diwali campaign (Terra)",
+   "description": "",
+   "status": "in_progress",
+   "priority": "medium",
+   "due_date": "2026-10-16",
+   "last_activity_at": "2026-10-26T10:00:00+00:00",
+   "time_consumed_min": 30000,
+   "comments": [
+    {
+     "user_id": "u11",
+     "text": "Waiting for assets from design",
+     "at": "2026-10-26T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t19",
+   "project_id": "p3",
+   "assignee_id": "u23",
+   "title": "Bundle offers (Terra)",
+   "description": "",
+   "status": "done",
+   "priority": "critical",
+   "due_date": null,
+   "last_activity_at": "2026-10-18T10:00:00+00:00",
+   "time_consumed_min": 120,
+   "comments": [
+    {
+     "user_id": "u23",
+     "text": "Working on it",
+     "at": "2026-10-18T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t20",
+   "project_id": "p3",
+   "assignee_id": "u7",
+   "title": "Set up GA4 events (Terra)",
+   "description": "",
+   "status": "todo",
+   "priority": "high",
+   "due_date": "2026-11-24",
+   "last_activity_at": "2026-09-13T10:00:00+00:00",
+   "time_consumed_min": 480,
+   "comments": [
+    {
+     "user_id": "u7",
+     "text": "Waiting for assets from design",
+     "at": "2026-09-13T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t21",
+   "project_id": "p3",
+   "assignee_id": "u17",
+   "title": "SEO technical audit (Terra)",
+   "description": "",
+   "status": "todo",
+   "priority": "medium",
+   "due_date": "2026-10-26",
+   "last_activity_at": "2026-10-25T10:00:00+00:00",
+   "time_consumed_min": 4000,
+   "comments": [
+    {
+     "user_id": "u17",
+     "text": "Blocked on API access",
+     "at": "2026-10-25T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t22",
+   "project_id": "p3",
+   "assignee_id": "u9",
+   "title": "Add size guide (Terra)",
+   "description": "",
+   "status": "done",
+   "priority": "high",
+   "due_date": null,
+   "last_activity_at": "2026-10-24T10:00:00+00:00",
+   "time_consumed_min": 12000,
+   "comments": [
+    {
+     "user_id": "u9",
+     "text": "Need clarification",
+     "at": "2026-10-24T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t23",
+   "project_id": "p3",
+   "assignee_id": "u35",
+   "title": "SEO technical audit (Terra)",
+   "description": "",
+   "status": "in_progress",
+   "priority": "low",
+   "due_date": "2026-11-10",
+   "last_activity_at": "2026-10-26T10:00:00+00:00",
+   "time_consumed_min": 30000,
+   "comments": [
+    {
+     "user_id": "u35",
+     "text": "Waiting for assets from design",
+     "at": "2026-10-26T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t24",
+   "project_id": "p3",
+   "assignee_id": "u10",
+   "title": "Hire 2 support agents (Terra)",
+   "description": "",
+   "status": "todo",
+   "priority": "critical",
+   "due_date": "2026-10-17",
+   "last_activity_at": "2026-10-26T10:00:00+00:00",
+   "time_consumed_min": 30,
+   "comments": [
+    {
+     "user_id": "u10",
+     "text": "Need clarification",
+     "at": "2026-10-26T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t25",
+   "project_id": "p3",
+   "assignee_id": "u21",
+   "title": "SEO technical audit (Terra)",
+   "description": "",
+   "status": "todo",
+   "priority": "critical",
+   "due_date": "2026-11-10",
+   "last_activity_at": "2026-05-01T10:00:00+00:00",
+   "time_consumed_min": 30000,
+   "comments": [
+    {
+     "user_id": "u21",
+     "text": "Working on it",
+     "at": "2026-05-01T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t26",
+   "project_id": "p3",
+   "assignee_id": "u16",
+   "title": "Fix checkout bug (Terra)",
+   "description": "",
+   "status": "todo",
+   "priority": "low",
+   "due_date": "2026-10-25",
+   "last_activity_at": "2026-10-25T10:00:00+00:00",
+   "time_consumed_min": 30000,
+   "comments": [
+    {
+     "user_id": "u16",
+     "text": "Need clarification",
+     "at": "2026-10-25T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t27",
+   "project_id": "p3",
+   "assignee_id": "u5",
+   "title": "SEO technical audit (Terra)",
+   "description": "",
+   "status": "todo",
+   "priority": "critical",
+   "due_date": "2026-10-28",
+   "last_activity_at": "2026-10-08T10:00:00+00:00",
+   "time_consumed_min": 480,
+   "comments": [
+    {
+     "user_id": "u5",
+     "text": "Blocked on API access",
+     "at": "2026-10-08T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t28",
+   "project_id": "p3",
+   "assignee_id": "u33",
+   "title": "Hire 2 support agents (Terra)",
+   "description": "",
+   "status": "done",
+   "priority": "critical",
+   "due_date": null,
+   "last_activity_at": "2026-09-23T10:00:00+00:00",
+   "time_consumed_min": 480,
+   "comments": [
+    {
+     "user_id": "u33",
+     "text": "Need clarification",
+     "at": "2026-09-23T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t29",
+   "project_id": "p3",
+   "assignee_id": "u36",
+   "title": "Refund policy update (Terra)",
+   "description": "",
+   "status": "blocked",
+   "priority": "medium",
+   "due_date": "2026-11-30",
+   "last_activity_at": "2026-10-25T10:00:00+00:00",
+   "time_consumed_min": 12000,
+   "comments": [
+    {
+     "user_id": "u36",
+     "text": "Working on it",
+     "at": "2026-10-25T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t30",
+   "project_id": "p4",
+   "assignee_id": "u21",
+   "title": "Build email flows (Pulse)",
+   "description": "",
+   "status": "done",
+   "priority": "high",
+   "due_date": null,
+   "last_activity_at": "2026-10-23T10:00:00+00:00",
+   "time_consumed_min": 30,
+   "comments": [
+    {
+     "user_id": "u21",
+     "text": "Waiting for assets from design",
+     "at": "2026-10-23T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t31",
+   "project_id": "p4",
+   "assignee_id": "u8",
+   "title": "Add size guide (Pulse)",
+   "description": "",
+   "status": "blocked",
+   "priority": "medium",
+   "due_date": "2026-12-07",
+   "last_activity_at": "2026-10-26T10:00:00+00:00",
+   "time_consumed_min": 1500,
+   "comments": [
+    {
+     "user_id": "u8",
+     "text": "Waiting for assets from design",
+     "at": "2026-10-26T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t32",
+   "project_id": "p4",
+   "assignee_id": "u15",
+   "title": "Write 10 blog posts (Pulse)",
+   "description": "",
+   "status": "done",
+   "priority": "high",
+   "due_date": null,
+   "last_activity_at": "2026-09-10T10:00:00+00:00",
+   "time_consumed_min": 30000,
+   "comments": [
+    {
+     "user_id": "u15",
+     "text": "Waiting for assets from design",
+     "at": "2026-09-10T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t33",
+   "project_id": "p4",
+   "assignee_id": "u11",
+   "title": "Inventory sync script (Pulse)",
+   "description": "",
+   "status": "in_progress",
+   "priority": "medium",
+   "due_date": "2026-11-09",
+   "last_activity_at": "2026-10-18T10:00:00+00:00",
+   "time_consumed_min": 12000,
+   "comments": [
+    {
+     "user_id": "u11",
+     "text": "Waiting for assets from design",
+     "at": "2026-10-18T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t34",
+   "project_id": "p4",
+   "assignee_id": "u21",
+   "title": "Add size guide (Pulse)",
+   "description": "",
+   "status": "done",
+   "priority": "low",
+   "due_date": null,
+   "last_activity_at": "2026-10-22T10:00:00+00:00",
+   "time_consumed_min": 4000,
+   "comments": [
+    {
+     "user_id": "u21",
+     "text": "Need clarification",
+     "at": "2026-10-22T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t35",
+   "project_id": "p4",
+   "assignee_id": "u29",
+   "title": "Launch Diwali campaign (Pulse)",
+   "description": "",
+   "status": "done",
+   "priority": "high",
+   "due_date": null,
+   "last_activity_at": "2026-09-12T10:00:00+00:00",
+   "time_consumed_min": 4000,
+   "comments": [
+    {
+     "user_id": "u29",
+     "text": "Need clarification",
+     "at": "2026-09-12T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t36",
+   "project_id": "p4",
+   "assignee_id": "u33",
+   "title": "Build email flows (Pulse)",
+   "description": "",
+   "status": "blocked",
+   "priority": "low",
+   "due_date": "2026-10-15",
+   "last_activity_at": "2026-10-27T10:00:00+00:00",
+   "time_consumed_min": 30,
+   "comments": [
+    {
+     "user_id": "u33",
+     "text": "Blocked on API access",
+     "at": "2026-10-27T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t37",
+   "project_id": "p4",
+   "assignee_id": "u3",
+   "title": "Set up GA4 events (Pulse)",
+   "description": "",
+   "status": "blocked",
+   "priority": "high",
+   "due_date": "2026-10-25",
+   "last_activity_at": "2026-10-26T10:00:00+00:00",
+   "time_consumed_min": 1500,
+   "comments": [
+    {
+     "user_id": "u3",
+     "text": "Almost done",
+     "at": "2026-10-26T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t38",
+   "project_id": "p4",
+   "assignee_id": "u35",
+   "title": "Hire 2 support agents (Pulse)",
+   "description": "",
+   "status": "in_progress",
+   "priority": "medium",
+   "due_date": "2026-11-13",
+   "last_activity_at": "2026-09-13T10:00:00+00:00",
+   "time_consumed_min": 30,
+   "comments": [
+    {
+     "user_id": "u35",
+     "text": "Blocked on API access",
+     "at": "2026-09-13T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t39",
+   "project_id": "p4",
+   "assignee_id": "u12",
+   "title": "Redesign PDP (Pulse)",
+   "description": "",
+   "status": "todo",
+   "priority": "medium",
+   "due_date": "2026-12-04",
+   "last_activity_at": "2026-10-18T10:00:00+00:00",
+   "time_consumed_min": 0,
+   "comments": [
+    {
+     "user_id": "u12",
+     "text": "Working on it",
+     "at": "2026-10-18T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t40",
+   "project_id": "p4",
+   "assignee_id": "u6",
+   "title": "Build email flows (Pulse)",
+   "description": "",
+   "status": "blocked",
+   "priority": "low",
+   "due_date": "2026-12-01",
+   "last_activity_at": "2026-07-30T10:00:00+00:00",
+   "time_consumed_min": 1500,
+   "comments": [
+    {
+     "user_id": "u6",
+     "text": "Working on it",
+     "at": "2026-07-30T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t41",
+   "project_id": "p4",
+   "assignee_id": "u1",
+   "title": "Bundle offers (Pulse)",
+   "description": "",
+   "status": "done",
+   "priority": "high",
+   "due_date": null,
+   "last_activity_at": "2026-10-06T10:00:00+00:00",
+   "time_consumed_min": 1500,
+   "comments": [
+    {
+     "user_id": "u1",
+     "text": "Need clarification",
+     "at": "2026-10-06T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t42",
+   "project_id": "p5",
+   "assignee_id": "u34",
+   "title": "Write 10 blog posts (Lumen)",
+   "description": "",
+   "status": "todo",
+   "priority": "medium",
+   "due_date": "2026-12-07",
+   "last_activity_at": "2026-10-25T10:00:00+00:00",
+   "time_consumed_min": 1500,
+   "comments": [
+    {
+     "user_id": "u34",
+     "text": "Working on it",
+     "at": "2026-10-25T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t43",
+   "project_id": "p5",
+   "assignee_id": "u13",
+   "title": "Create UGC video (Lumen)",
+   "description": "",
+   "status": "in_progress",
+   "priority": "critical",
+   "due_date": "2026-11-17",
+   "last_activity_at": "2026-10-24T10:00:00+00:00",
+   "time_consumed_min": 480,
+   "comments": [
+    {
+     "user_id": "u13",
+     "text": "Blocked on API access",
+     "at": "2026-10-24T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t44",
+   "project_id": "p5",
+   "assignee_id": "u33",
+   "title": "Migrate theme to 2.0 (Lumen)",
+   "description": "",
+   "status": "done",
+   "priority": "medium",
+   "due_date": null,
+   "last_activity_at": "2026-09-14T10:00:00+00:00",
+   "time_consumed_min": 4000,
+   "comments": [
+    {
+     "user_id": "u33",
+     "text": "Working on it",
+     "at": "2026-09-14T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t45",
+   "project_id": "p5",
+   "assignee_id": "u3",
+   "title": "SEO technical audit (Lumen)",
+   "description": "",
+   "status": "blocked",
+   "priority": "critical",
+   "due_date": "2026-10-09",
+   "last_activity_at": "2026-10-28T10:00:00+00:00",
+   "time_consumed_min": 480,
+   "comments": [
+    {
+     "user_id": "u3",
+     "text": "Need clarification",
+     "at": "2026-10-28T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t46",
+   "project_id": "p5",
+   "assignee_id": "u16",
+   "title": "Refund policy update (Lumen)",
+   "description": "",
+   "status": "done",
+   "priority": "low",
+   "due_date": null,
+   "last_activity_at": "2026-08-29T10:00:00+00:00",
+   "time_consumed_min": 12000,
+   "comments": [
+    {
+     "user_id": "u16",
+     "text": "Almost done",
+     "at": "2026-08-29T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t47",
+   "project_id": "p5",
+   "assignee_id": "u33",
+   "title": "Negotiate courier rates (Lumen)",
+   "description": "",
+   "status": "done",
+   "priority": "medium",
+   "due_date": null,
+   "last_activity_at": "2026-10-08T10:00:00+00:00",
+   "time_consumed_min": 4000,
+   "comments": [
+    {
+     "user_id": "u33",
+     "text": "Waiting for assets from design",
+     "at": "2026-10-08T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t48",
+   "project_id": "p5",
+   "assignee_id": "u26",
+   "title": "Set up GA4 events (Lumen)",
+   "description": "",
+   "status": "in_progress",
+   "priority": "low",
+   "due_date": "2026-10-11",
+   "last_activity_at": "2026-10-21T10:00:00+00:00",
+   "time_consumed_min": 30,
+   "comments": [
+    {
+     "user_id": "u26",
+     "text": "Blocked on API access",
+     "at": "2026-10-21T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t49",
+   "project_id": "p5",
+   "assignee_id": "u11",
+   "title": "Redesign PDP (Lumen)",
+   "description": "",
+   "status": "done",
+   "priority": "high",
+   "due_date": null,
+   "last_activity_at": "2026-10-24T10:00:00+00:00",
+   "time_consumed_min": 1500,
+   "comments": [
+    {
+     "user_id": "u11",
+     "text": "Need clarification",
+     "at": "2026-10-24T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t50",
+   "project_id": "p6",
+   "assignee_id": "u3",
+   "title": "Migrate theme to 2.0 (Verde)",
+   "description": "",
+   "status": "blocked",
+   "priority": "medium",
+   "due_date": "2026-10-19",
+   "last_activity_at": "2026-10-08T10:00:00+00:00",
+   "time_consumed_min": 30000,
+   "comments": [
+    {
+     "user_id": "u3",
+     "text": "Working on it",
+     "at": "2026-10-08T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t51",
+   "project_id": "p6",
+   "assignee_id": "u24",
+   "title": "Improve page speed (Verde)",
+   "description": "",
+   "status": "blocked",
+   "priority": "medium",
+   "due_date": "2026-11-12",
+   "last_activity_at": "2026-10-21T10:00:00+00:00",
+   "time_consumed_min": 0,
+   "comments": [
+    {
+     "user_id": "u24",
+     "text": "Blocked on API access",
+     "at": "2026-10-21T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t52",
+   "project_id": "p6",
+   "assignee_id": "u23",
+   "title": "Improve page speed (Verde)",
+   "description": "",
+   "status": "in_progress",
+   "priority": "high",
+   "due_date": "2026-10-08",
+   "last_activity_at": "2026-10-26T10:00:00+00:00",
+   "time_consumed_min": 30,
+   "comments": [
+    {
+     "user_id": "u23",
+     "text": "Almost done",
+     "at": "2026-10-26T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t53",
+   "project_id": "p6",
+   "assignee_id": "u33",
+   "title": "Build email flows (Verde)",
+   "description": "",
+   "status": "blocked",
+   "priority": "critical",
+   "due_date": "2026-10-20",
+   "last_activity_at": "2026-05-01T10:00:00+00:00",
+   "time_consumed_min": 0,
+   "comments": [
+    {
+     "user_id": "u33",
+     "text": "Working on it",
+     "at": "2026-05-01T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t54",
+   "project_id": "p6",
+   "assignee_id": "u6",
+   "title": "Fix checkout bug (Verde)",
+   "description": "",
+   "status": "blocked",
+   "priority": "high",
+   "due_date": "2026-11-02",
+   "last_activity_at": "2026-10-26T10:00:00+00:00",
+   "time_consumed_min": 0,
+   "comments": [
+    {
+     "user_id": "u6",
+     "text": "Blocked on API access",
+     "at": "2026-10-26T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t55",
+   "project_id": "p6",
+   "assignee_id": "u15",
+   "title": "SEO technical audit (Verde)",
+   "description": "",
+   "status": "blocked",
+   "priority": "medium",
+   "due_date": "2026-11-14",
+   "last_activity_at": "2026-10-27T10:00:00+00:00",
+   "time_consumed_min": 12000,
+   "comments": [
+    {
+     "user_id": "u15",
+     "text": "Blocked on API access",
+     "at": "2026-10-27T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t56",
+   "project_id": "p6",
+   "assignee_id": "u10",
+   "title": "Set up GA4 events (Verde)",
+   "description": "",
+   "status": "done",
+   "priority": "low",
+   "due_date": null,
+   "last_activity_at": "2026-10-09T10:00:00+00:00",
+   "time_consumed_min": 12000,
+   "comments": [
+    {
+     "user_id": "u10",
+     "text": "Need clarification",
+     "at": "2026-10-09T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t57",
+   "project_id": "p6",
+   "assignee_id": "u34",
+   "title": "Launch Diwali campaign (Verde)",
+   "description": "",
+   "status": "in_progress",
+   "priority": "critical",
+   "due_date": "2026-11-13",
+   "last_activity_at": "2026-09-13T10:00:00+00:00",
+   "time_consumed_min": 480,
+   "comments": [
+    {
+     "user_id": "u34",
+     "text": "Working on it",
+     "at": "2026-09-13T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t58",
+   "project_id": "p6",
+   "assignee_id": "u3",
+   "title": "Add size guide (Verde)",
+   "description": "",
+   "status": "todo",
+   "priority": "low",
+   "due_date": "2026-11-17",
+   "last_activity_at": "2026-10-26T10:00:00+00:00",
+   "time_consumed_min": 12000,
+   "comments": [
+    {
+     "user_id": "u3",
+     "text": "Almost done",
+     "at": "2026-10-26T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t59",
+   "project_id": "p7",
+   "assignee_id": "u2",
+   "title": "Build email flows (Orbit)",
+   "description": "",
+   "status": "todo",
+   "priority": "high",
+   "due_date": "2026-11-11",
+   "last_activity_at": "2026-05-01T10:00:00+00:00",
+   "time_consumed_min": 1500,
+   "comments": [
+    {
+     "user_id": "u2",
+     "text": "Working on it",
+     "at": "2026-05-01T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t60",
+   "project_id": "p7",
+   "assignee_id": "u5",
+   "title": "SEO technical audit (Orbit)",
+   "description": "",
+   "status": "done",
+   "priority": "critical",
+   "due_date": null,
+   "last_activity_at": "2026-09-10T10:00:00+00:00",
+   "time_consumed_min": 30,
+   "comments": [
+    {
+     "user_id": "u5",
+     "text": "Need clarification",
+     "at": "2026-09-10T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t61",
+   "project_id": "p7",
+   "assignee_id": "u31",
+   "title": "Redesign PDP (Orbit)",
+   "description": "",
+   "status": "in_progress",
+   "priority": "medium",
+   "due_date": "2026-11-28",
+   "last_activity_at": "2026-10-24T10:00:00+00:00",
+   "time_consumed_min": 480,
+   "comments": [
+    {
+     "user_id": "u31",
+     "text": "Waiting for assets from design",
+     "at": "2026-10-24T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t62",
+   "project_id": "p7",
+   "assignee_id": "u30",
+   "title": "Inventory sync script (Orbit)",
+   "description": "",
+   "status": "in_progress",
+   "priority": "low",
+   "due_date": "2026-12-01",
+   "last_activity_at": "2026-10-08T10:00:00+00:00",
+   "time_consumed_min": 30000,
+   "comments": [
+    {
+     "user_id": "u30",
+     "text": "Blocked on API access",
+     "at": "2026-10-08T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t63",
+   "project_id": "p7",
+   "assignee_id": "u40",
+   "title": "Negotiate courier rates (Orbit)",
+   "description": "",
+   "status": "todo",
+   "priority": "low",
+   "due_date": "2026-11-18",
+   "last_activity_at": "2026-05-01T10:00:00+00:00",
+   "time_consumed_min": 120,
+   "comments": [
+    {
+     "user_id": "u40",
+     "text": "Blocked on API access",
+     "at": "2026-05-01T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t64",
+   "project_id": "p7",
+   "assignee_id": "u20",
+   "title": "Set up GA4 events (Orbit)",
+   "description": "",
+   "status": "blocked",
+   "priority": "low",
+   "due_date": "2026-11-13",
+   "last_activity_at": "2026-07-30T10:00:00+00:00",
+   "time_consumed_min": 30000,
+   "comments": [
+    {
+     "user_id": "u20",
+     "text": "Working on it",
+     "at": "2026-07-30T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t65",
+   "project_id": "p7",
+   "assignee_id": "u18",
+   "title": "Write 10 blog posts (Orbit)",
+   "description": "",
+   "status": "done",
+   "priority": "medium",
+   "due_date": null,
+   "last_activity_at": "2026-09-14T10:00:00+00:00",
+   "time_consumed_min": 30000,
+   "comments": [
+    {
+     "user_id": "u18",
+     "text": "Blocked on API access",
+     "at": "2026-09-14T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t66",
+   "project_id": "p7",
+   "assignee_id": "u30",
+   "title": "Write 10 blog posts (Orbit)",
+   "description": "",
+   "status": "blocked",
+   "priority": "critical",
+   "due_date": "2026-11-06",
+   "last_activity_at": "2026-10-08T10:00:00+00:00",
+   "time_consumed_min": 480,
+   "comments": [
+    {
+     "user_id": "u30",
+     "text": "Blocked on API access",
+     "at": "2026-10-08T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t67",
+   "project_id": "p7",
+   "assignee_id": "u31",
+   "title": "Refund policy update (Orbit)",
+   "description": "",
+   "status": "in_progress",
+   "priority": "low",
+   "due_date": "2026-10-26",
+   "last_activity_at": "2026-10-28T10:00:00+00:00",
+   "time_consumed_min": 30000,
+   "comments": [
+    {
+     "user_id": "u31",
+     "text": "Blocked on API access",
+     "at": "2026-10-28T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t68",
+   "project_id": "p7",
+   "assignee_id": "u14",
+   "title": "Negotiate courier rates (Orbit)",
+   "description": "",
+   "status": "done",
+   "priority": "low",
+   "due_date": null,
+   "last_activity_at": "2026-08-30T10:00:00+00:00",
+   "time_consumed_min": 30,
+   "comments": [
+    {
+     "user_id": "u14",
+     "text": "Waiting for assets from design",
+     "at": "2026-08-30T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t69",
+   "project_id": "p7",
+   "assignee_id": "u24",
+   "title": "SEO technical audit (Orbit)",
+   "description": "",
+   "status": "blocked",
+   "priority": "medium",
+   "due_date": "2026-11-15",
+   "last_activity_at": "2026-10-26T10:00:00+00:00",
+   "time_consumed_min": 30,
+   "comments": [
+    {
+     "user_id": "u24",
+     "text": "Blocked on API access",
+     "at": "2026-10-26T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t70",
+   "project_id": "p7",
+   "assignee_id": "u32",
+   "title": "Launch Diwali campaign (Orbit)",
+   "description": "",
+   "status": "in_progress",
+   "priority": "medium",
+   "due_date": "2026-11-02",
+   "last_activity_at": "2026-10-08T10:00:00+00:00",
+   "time_consumed_min": 0,
+   "comments": [
+    {
+     "user_id": "u32",
+     "text": "Almost done",
+     "at": "2026-10-08T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t71",
+   "project_id": "p7",
+   "assignee_id": "u26",
+   "title": "Set up GA4 events (Orbit)",
+   "description": "",
+   "status": "done",
+   "priority": "high",
+   "due_date": null,
+   "last_activity_at": "2026-10-08T10:00:00+00:00",
+   "time_consumed_min": 4000,
+   "comments": [
+    {
+     "user_id": "u26",
+     "text": "Almost done",
+     "at": "2026-10-08T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t72",
+   "project_id": "p7",
+   "assignee_id": "u8",
+   "title": "Improve page speed (Orbit)",
+   "description": "",
+   "status": "done",
+   "priority": "low",
+   "due_date": null,
+   "last_activity_at": "2026-09-04T10:00:00+00:00",
+   "time_consumed_min": 4000,
+   "comments": [
+    {
+     "user_id": "u8",
+     "text": "Blocked on API access",
+     "at": "2026-09-04T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t73",
+   "project_id": "p8",
+   "assignee_id": "u13",
+   "title": "Create UGC video (Saffron)",
+   "description": "",
+   "status": "in_progress",
+   "priority": "medium",
+   "due_date": "2026-12-04",
+   "last_activity_at": "2026-10-28T10:00:00+00:00",
+   "time_consumed_min": 4000,
+   "comments": [
+    {
+     "user_id": "u13",
+     "text": "Working on it",
+     "at": "2026-10-28T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t74",
+   "project_id": "p8",
+   "assignee_id": "u25",
+   "title": "Redesign PDP (Saffron)",
+   "description": "",
+   "status": "done",
+   "priority": "medium",
+   "due_date": null,
+   "last_activity_at": "2026-09-02T10:00:00+00:00",
+   "time_consumed_min": 12000,
+   "comments": [
+    {
+     "user_id": "u25",
+     "text": "Blocked on API access",
+     "at": "2026-09-02T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t75",
+   "project_id": "p8",
+   "assignee_id": "u18",
+   "title": "Create UGC video (Saffron)",
+   "description": "",
+   "status": "todo",
+   "priority": "medium",
+   "due_date": "2026-10-11",
+   "last_activity_at": "2026-10-27T10:00:00+00:00",
+   "time_consumed_min": 480,
+   "comments": [
+    {
+     "user_id": "u18",
+     "text": "Blocked on API access",
+     "at": "2026-10-27T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t76",
+   "project_id": "p8",
+   "assignee_id": "u33",
+   "title": "Negotiate courier rates (Saffron)",
+   "description": "",
+   "status": "done",
+   "priority": "medium",
+   "due_date": null,
+   "last_activity_at": "2026-10-07T10:00:00+00:00",
+   "time_consumed_min": 12000,
+   "comments": [
+    {
+     "user_id": "u33",
+     "text": "Working on it",
+     "at": "2026-10-07T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t77",
+   "project_id": "p8",
+   "assignee_id": "u36",
+   "title": "Negotiate courier rates (Saffron)",
+   "description": "",
+   "status": "done",
+   "priority": "low",
+   "due_date": null,
+   "last_activity_at": "2026-09-22T10:00:00+00:00",
+   "time_consumed_min": 0,
+   "comments": [
+    {
+     "user_id": "u36",
+     "text": "Almost done",
+     "at": "2026-09-22T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t78",
+   "project_id": "p8",
+   "assignee_id": "u40",
+   "title": "Set up GA4 events (Saffron)",
+   "description": "",
+   "status": "done",
+   "priority": "medium",
+   "due_date": null,
+   "last_activity_at": "2026-09-09T10:00:00+00:00",
+   "time_consumed_min": 30000,
+   "comments": [
+    {
+     "user_id": "u40",
+     "text": "Working on it",
+     "at": "2026-09-09T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t79",
+   "project_id": "p8",
+   "assignee_id": "u11",
+   "title": "Improve page speed (Saffron)",
+   "description": "",
+   "status": "in_progress",
+   "priority": "medium",
+   "due_date": "2026-11-03",
+   "last_activity_at": "2026-10-08T10:00:00+00:00",
+   "time_consumed_min": 1500,
+   "comments": [
+    {
+     "user_id": "u11",
+     "text": "Blocked on API access",
+     "at": "2026-10-08T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t80",
+   "project_id": "p8",
+   "assignee_id": "u26",
+   "title": "Create UGC video (Saffron)",
+   "description": "",
+   "status": "blocked",
+   "priority": "high",
+   "due_date": "2026-10-23",
+   "last_activity_at": "2026-05-01T10:00:00+00:00",
+   "time_consumed_min": 12000,
+   "comments": [
+    {
+     "user_id": "u26",
+     "text": "Working on it",
+     "at": "2026-05-01T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t81",
+   "project_id": "p8",
+   "assignee_id": "u11",
+   "title": "SEO technical audit (Saffron)",
+   "description": "",
+   "status": "in_progress",
+   "priority": "high",
+   "due_date": "2026-10-21",
+   "last_activity_at": "2026-10-27T10:00:00+00:00",
+   "time_consumed_min": 480,
+   "comments": [
+    {
+     "user_id": "u11",
+     "text": "Almost done",
+     "at": "2026-10-27T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t82",
+   "project_id": "p8",
+   "assignee_id": "u29",
+   "title": "Set up GA4 events (Saffron)",
+   "description": "",
+   "status": "done",
+   "priority": "critical",
+   "due_date": null,
+   "last_activity_at": "2026-09-30T10:00:00+00:00",
+   "time_consumed_min": 480,
+   "comments": [
+    {
+     "user_id": "u29",
+     "text": "Waiting for assets from design",
+     "at": "2026-09-30T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t83",
+   "project_id": "p8",
+   "assignee_id": "u12",
+   "title": "Redesign PDP (Saffron)",
+   "description": "",
+   "status": "in_progress",
+   "priority": "medium",
+   "due_date": "2026-11-12",
+   "last_activity_at": "2026-10-21T10:00:00+00:00",
+   "time_consumed_min": 480,
+   "comments": [
+    {
+     "user_id": "u12",
+     "text": "Blocked on API access",
+     "at": "2026-10-21T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t84",
+   "project_id": "p8",
+   "assignee_id": "u37",
+   "title": "Launch Diwali campaign (Saffron)",
+   "description": "",
+   "status": "blocked",
+   "priority": "high",
+   "due_date": "2026-12-03",
+   "last_activity_at": "2026-10-25T10:00:00+00:00",
+   "time_consumed_min": 12000,
+   "comments": [
+    {
+     "user_id": "u37",
+     "text": "Almost done",
+     "at": "2026-10-25T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t85",
+   "project_id": "p9",
+   "assignee_id": "u25",
+   "title": "Fix checkout bug (Atlas)",
+   "description": "",
+   "status": "in_progress",
+   "priority": "high",
+   "due_date": "2026-10-29",
+   "last_activity_at": "2026-10-24T10:00:00+00:00",
+   "time_consumed_min": 1500,
+   "comments": [
+    {
+     "user_id": "u25",
+     "text": "Need clarification",
+     "at": "2026-10-24T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t86",
+   "project_id": "p9",
+   "assignee_id": "u9",
+   "title": "SEO technical audit (Atlas)",
+   "description": "",
+   "status": "done",
+   "priority": "critical",
+   "due_date": null,
+   "last_activity_at": "2026-09-14T10:00:00+00:00",
+   "time_consumed_min": 480,
+   "comments": [
+    {
+     "user_id": "u9",
+     "text": "Working on it",
+     "at": "2026-09-14T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t87",
+   "project_id": "p9",
+   "assignee_id": "u16",
+   "title": "Refund policy update (Atlas)",
+   "description": "",
+   "status": "blocked",
+   "priority": "high",
+   "due_date": "2026-11-02",
+   "last_activity_at": "2026-10-18T10:00:00+00:00",
+   "time_consumed_min": 1500,
+   "comments": [
+    {
+     "user_id": "u16",
+     "text": "Working on it",
+     "at": "2026-10-18T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t88",
+   "project_id": "p9",
+   "assignee_id": "u3",
+   "title": "Hire 2 support agents (Atlas)",
+   "description": "",
+   "status": "in_progress",
+   "priority": "critical",
+   "due_date": "2026-11-22",
+   "last_activity_at": "2026-10-18T10:00:00+00:00",
+   "time_consumed_min": 30000,
+   "comments": [
+    {
+     "user_id": "u3",
+     "text": "Working on it",
+     "at": "2026-10-18T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t89",
+   "project_id": "p9",
+   "assignee_id": "u26",
+   "title": "Refund policy update (Atlas)",
+   "description": "",
+   "status": "in_progress",
+   "priority": "high",
+   "due_date": "2026-12-01",
+   "last_activity_at": "2026-09-13T10:00:00+00:00",
+   "time_consumed_min": 480,
+   "comments": [
+    {
+     "user_id": "u26",
+     "text": "Working on it",
+     "at": "2026-09-13T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t90",
+   "project_id": "p9",
+   "assignee_id": "u10",
+   "title": "Write 10 blog posts (Atlas)",
+   "description": "",
+   "status": "in_progress",
+   "priority": "high",
+   "due_date": "2026-11-10",
+   "last_activity_at": "2026-10-26T10:00:00+00:00",
+   "time_consumed_min": 30,
+   "comments": [
+    {
+     "user_id": "u10",
+     "text": "Need clarification",
+     "at": "2026-10-26T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t91",
+   "project_id": "p9",
+   "assignee_id": "u1",
+   "title": "Fix checkout bug (Atlas)",
+   "description": "",
+   "status": "todo",
+   "priority": "medium",
+   "due_date": "2026-10-22",
+   "last_activity_at": "2026-10-26T10:00:00+00:00",
+   "time_consumed_min": 120,
+   "comments": [
+    {
+     "user_id": "u1",
+     "text": "Blocked on API access",
+     "at": "2026-10-26T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t92",
+   "project_id": "p9",
+   "assignee_id": "u8",
+   "title": "Redesign PDP (Atlas)",
+   "description": "",
+   "status": "done",
+   "priority": "medium",
+   "due_date": null,
+   "last_activity_at": "2026-10-21T10:00:00+00:00",
+   "time_consumed_min": 480,
+   "comments": [
+    {
+     "user_id": "u8",
+     "text": "Almost done",
+     "at": "2026-10-21T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t93",
+   "project_id": "p9",
+   "assignee_id": "u15",
+   "title": "Launch Diwali campaign (Atlas)",
+   "description": "",
+   "status": "blocked",
+   "priority": "critical",
+   "due_date": "2026-10-08",
+   "last_activity_at": "2026-07-30T10:00:00+00:00",
+   "time_consumed_min": 1500,
+   "comments": [
+    {
+     "user_id": "u15",
+     "text": "Almost done",
+     "at": "2026-07-30T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t94",
+   "project_id": "p9",
+   "assignee_id": "u21",
+   "title": "Build email flows (Atlas)",
+   "description": "",
+   "status": "blocked",
+   "priority": "high",
+   "due_date": "2026-11-30",
+   "last_activity_at": "2026-05-01T10:00:00+00:00",
+   "time_consumed_min": 480,
+   "comments": [
+    {
+     "user_id": "u21",
+     "text": "Need clarification",
+     "at": "2026-05-01T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t95",
+   "project_id": "p9",
+   "assignee_id": "u2",
+   "title": "Create UGC video (Atlas)",
+   "description": "",
+   "status": "in_progress",
+   "priority": "low",
+   "due_date": "2026-11-22",
+   "last_activity_at": "2026-10-18T10:00:00+00:00",
+   "time_consumed_min": 0,
+   "comments": [
+    {
+     "user_id": "u2",
+     "text": "Waiting for assets from design",
+     "at": "2026-10-18T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t96",
+   "project_id": "p9",
+   "assignee_id": "u27",
+   "title": "Audit ad accounts (Atlas)",
+   "description": "",
+   "status": "done",
+   "priority": "medium",
+   "due_date": null,
+   "last_activity_at": "2026-10-22T10:00:00+00:00",
+   "time_consumed_min": 12000,
+   "comments": [
+    {
+     "user_id": "u27",
+     "text": "Blocked on API access",
+     "at": "2026-10-22T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t97",
+   "project_id": "p9",
+   "assignee_id": "u32",
+   "title": "Improve page speed (Atlas)",
+   "description": "",
+   "status": "in_progress",
+   "priority": "high",
+   "due_date": "2026-11-21",
+   "last_activity_at": "2026-10-28T10:00:00+00:00",
+   "time_consumed_min": 4000,
+   "comments": [
+    {
+     "user_id": "u32",
+     "text": "Almost done",
+     "at": "2026-10-28T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t98",
+   "project_id": "p9",
+   "assignee_id": "u1",
+   "title": "SEO technical audit (Atlas)",
+   "description": "",
+   "status": "in_progress",
+   "priority": "low",
+   "due_date": "2026-11-24",
+   "last_activity_at": "2026-10-24T10:00:00+00:00",
+   "time_consumed_min": 480,
+   "comments": [
+    {
+     "user_id": "u1",
+     "text": "Almost done",
+     "at": "2026-10-24T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t99",
+   "project_id": "p10",
+   "assignee_id": "u13",
+   "title": "Build email flows (Breeze)",
+   "description": "",
+   "status": "blocked",
+   "priority": "medium",
+   "due_date": "2026-11-06",
+   "last_activity_at": "2026-10-25T10:00:00+00:00",
+   "time_consumed_min": 1500,
+   "comments": [
+    {
+     "user_id": "u13",
+     "text": "Working on it",
+     "at": "2026-10-25T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t100",
+   "project_id": "p10",
+   "assignee_id": "u40",
+   "title": "Build email flows (Breeze)",
+   "description": "",
+   "status": "done",
+   "priority": "high",
+   "due_date": null,
+   "last_activity_at": "2026-10-16T10:00:00+00:00",
+   "time_consumed_min": 12000,
+   "comments": [
+    {
+     "user_id": "u40",
+     "text": "Working on it",
+     "at": "2026-10-16T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t101",
+   "project_id": "p10",
+   "assignee_id": "u26",
+   "title": "Launch Diwali campaign (Breeze)",
+   "description": "",
+   "status": "in_progress",
+   "priority": "critical",
+   "due_date": "2026-10-21",
+   "last_activity_at": "2026-10-28T10:00:00+00:00",
+   "time_consumed_min": 120,
+   "comments": [
+    {
+     "user_id": "u26",
+     "text": "Almost done",
+     "at": "2026-10-28T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t102",
+   "project_id": "p10",
+   "assignee_id": "u4",
+   "title": "Refund policy update (Breeze)",
+   "description": "",
+   "status": "todo",
+   "priority": "medium",
+   "due_date": "2026-11-02",
+   "last_activity_at": "2026-10-26T10:00:00+00:00",
+   "time_consumed_min": 30,
+   "comments": [
+    {
+     "user_id": "u4",
+     "text": "Working on it",
+     "at": "2026-10-26T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t103",
+   "project_id": "p10",
+   "assignee_id": "u22",
+   "title": "SEO technical audit (Breeze)",
+   "description": "",
+   "status": "in_progress",
+   "priority": "high",
+   "due_date": "2026-10-19",
+   "last_activity_at": "2026-10-25T10:00:00+00:00",
+   "time_consumed_min": 0,
+   "comments": [
+    {
+     "user_id": "u22",
+     "text": "Blocked on API access",
+     "at": "2026-10-25T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t104",
+   "project_id": "p10",
+   "assignee_id": "u24",
+   "title": "Refund policy update (Breeze)",
+   "description": "",
+   "status": "done",
+   "priority": "medium",
+   "due_date": null,
+   "last_activity_at": "2026-10-06T10:00:00+00:00",
+   "time_consumed_min": 30,
+   "comments": [
+    {
+     "user_id": "u24",
+     "text": "Working on it",
+     "at": "2026-10-06T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t105",
+   "project_id": "p10",
+   "assignee_id": "u18",
+   "title": "Customer survey (Breeze)",
+   "description": "",
+   "status": "in_progress",
+   "priority": "low",
+   "due_date": "2026-10-30",
+   "last_activity_at": "2026-10-27T10:00:00+00:00",
+   "time_consumed_min": 480,
+   "comments": [
+    {
+     "user_id": "u18",
+     "text": "Almost done",
+     "at": "2026-10-27T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t106",
+   "project_id": "p10",
+   "assignee_id": "u20",
+   "title": "Customer survey (Breeze)",
+   "description": "",
+   "status": "done",
+   "priority": "low",
+   "due_date": null,
+   "last_activity_at": "2026-09-05T10:00:00+00:00",
+   "time_consumed_min": 0,
+   "comments": [
+    {
+     "user_id": "u20",
+     "text": "Almost done",
+     "at": "2026-09-05T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t107",
+   "project_id": "p10",
+   "assignee_id": "u24",
+   "title": "Refund policy update (Breeze)",
+   "description": "",
+   "status": "in_progress",
+   "priority": "medium",
+   "due_date": "2026-12-05",
+   "last_activity_at": "2026-09-13T10:00:00+00:00",
+   "time_consumed_min": 4000,
+   "comments": [
+    {
+     "user_id": "u24",
+     "text": "Blocked on API access",
+     "at": "2026-09-13T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t108",
+   "project_id": "p11",
+   "assignee_id": "u27",
+   "title": "Inventory sync script (Ember)",
+   "description": "",
+   "status": "todo",
+   "priority": "low",
+   "due_date": "2026-11-28",
+   "last_activity_at": "2026-10-25T10:00:00+00:00",
+   "time_consumed_min": 12000,
+   "comments": [
+    {
+     "user_id": "u27",
+     "text": "Working on it",
+     "at": "2026-10-25T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t109",
+   "project_id": "p11",
+   "assignee_id": "u5",
+   "title": "Fix checkout bug (Ember)",
+   "description": "",
+   "status": "done",
+   "priority": "medium",
+   "due_date": null,
+   "last_activity_at": "2026-09-06T10:00:00+00:00",
+   "time_consumed_min": 480,
+   "comments": [
+    {
+     "user_id": "u5",
+     "text": "Working on it",
+     "at": "2026-09-06T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t110",
+   "project_id": "p11",
+   "assignee_id": "u24",
+   "title": "Improve page speed (Ember)",
+   "description": "",
+   "status": "done",
+   "priority": "critical",
+   "due_date": null,
+   "last_activity_at": "2026-10-10T10:00:00+00:00",
+   "time_consumed_min": 0,
+   "comments": [
+    {
+     "user_id": "u24",
+     "text": "Blocked on API access",
+     "at": "2026-10-10T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t111",
+   "project_id": "p11",
+   "assignee_id": "u18",
+   "title": "Launch Diwali campaign (Ember)",
+   "description": "",
+   "status": "done",
+   "priority": "critical",
+   "due_date": null,
+   "last_activity_at": "2026-10-08T10:00:00+00:00",
+   "time_consumed_min": 30,
+   "comments": [
+    {
+     "user_id": "u18",
+     "text": "Working on it",
+     "at": "2026-10-08T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t112",
+   "project_id": "p11",
+   "assignee_id": "u7",
+   "title": "Refund policy update (Ember)",
+   "description": "",
+   "status": "in_progress",
+   "priority": "high",
+   "due_date": "2026-11-22",
+   "last_activity_at": "2026-10-08T10:00:00+00:00",
+   "time_consumed_min": 1500,
+   "comments": [
+    {
+     "user_id": "u7",
+     "text": "Almost done",
+     "at": "2026-10-08T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t113",
+   "project_id": "p11",
+   "assignee_id": "u9",
+   "title": "Hire 2 support agents (Ember)",
+   "description": "",
+   "status": "done",
+   "priority": "medium",
+   "due_date": null,
+   "last_activity_at": "2026-08-29T10:00:00+00:00",
+   "time_consumed_min": 0,
+   "comments": [
+    {
+     "user_id": "u9",
+     "text": "Blocked on API access",
+     "at": "2026-08-29T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t114",
+   "project_id": "p11",
+   "assignee_id": "u39",
+   "title": "Improve page speed (Ember)",
+   "description": "",
+   "status": "in_progress",
+   "priority": "high",
+   "due_date": "2026-10-28",
+   "last_activity_at": "2026-10-25T10:00:00+00:00",
+   "time_consumed_min": 4000,
+   "comments": [
+    {
+     "user_id": "u39",
+     "text": "Need clarification",
+     "at": "2026-10-25T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t115",
+   "project_id": "p11",
+   "assignee_id": "u33",
+   "title": "Migrate theme to 2.0 (Ember)",
+   "description": "",
+   "status": "in_progress",
+   "priority": "medium",
+   "due_date": "2026-11-02",
+   "last_activity_at": "2026-10-25T10:00:00+00:00",
+   "time_consumed_min": 12000,
+   "comments": [
+    {
+     "user_id": "u33",
+     "text": "Working on it",
+     "at": "2026-10-25T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t116",
+   "project_id": "p11",
+   "assignee_id": "u31",
+   "title": "Improve page speed (Ember)",
+   "description": "",
+   "status": "todo",
+   "priority": "medium",
+   "due_date": "2026-11-11",
+   "last_activity_at": "2026-09-13T10:00:00+00:00",
+   "time_consumed_min": 12000,
+   "comments": [
+    {
+     "user_id": "u31",
+     "text": "Working on it",
+     "at": "2026-09-13T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t117",
+   "project_id": "p11",
+   "assignee_id": "u17",
+   "title": "Negotiate courier rates (Ember)",
+   "description": "",
+   "status": "in_progress",
+   "priority": "low",
+   "due_date": "2026-10-13",
+   "last_activity_at": "2026-07-30T10:00:00+00:00",
+   "time_consumed_min": 12000,
+   "comments": [
+    {
+     "user_id": "u17",
+     "text": "Almost done",
+     "at": "2026-07-30T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t118",
+   "project_id": "p11",
+   "assignee_id": "u12",
+   "title": "Set up GA4 events (Ember)",
+   "description": "",
+   "status": "done",
+   "priority": "high",
+   "due_date": null,
+   "last_activity_at": "2026-10-13T10:00:00+00:00",
+   "time_consumed_min": 30000,
+   "comments": [
+    {
+     "user_id": "u12",
+     "text": "Need clarification",
+     "at": "2026-10-13T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t119",
+   "project_id": "p11",
+   "assignee_id": "u35",
+   "title": "Write 10 blog posts (Ember)",
+   "description": "",
+   "status": "in_progress",
+   "priority": "medium",
+   "due_date": "2026-11-25",
+   "last_activity_at": "2026-05-01T10:00:00+00:00",
+   "time_consumed_min": 1500,
+   "comments": [
+    {
+     "user_id": "u35",
+     "text": "Blocked on API access",
+     "at": "2026-05-01T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t120",
+   "project_id": "p11",
+   "assignee_id": "u24",
+   "title": "Audit ad accounts (Ember)",
+   "description": "",
+   "status": "blocked",
+   "priority": "medium",
+   "due_date": "2026-11-24",
+   "last_activity_at": "2026-10-24T10:00:00+00:00",
+   "time_consumed_min": 30000,
+   "comments": [
+    {
+     "user_id": "u24",
+     "text": "Waiting for assets from design",
+     "at": "2026-10-24T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t121",
+   "project_id": "p12",
+   "assignee_id": "u16",
+   "title": "Negotiate courier rates (Quill)",
+   "description": "",
+   "status": "in_progress",
+   "priority": "medium",
+   "due_date": "2026-10-26",
+   "last_activity_at": "2026-10-26T10:00:00+00:00",
+   "time_consumed_min": 30,
+   "comments": [
+    {
+     "user_id": "u16",
+     "text": "Almost done",
+     "at": "2026-10-26T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t122",
+   "project_id": "p12",
+   "assignee_id": "u16",
+   "title": "Build email flows (Quill)",
+   "description": "",
+   "status": "blocked",
+   "priority": "low",
+   "due_date": "2026-11-10",
+   "last_activity_at": "2026-09-13T10:00:00+00:00",
+   "time_consumed_min": 30000,
+   "comments": [
+    {
+     "user_id": "u16",
+     "text": "Working on it",
+     "at": "2026-09-13T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t123",
+   "project_id": "p12",
+   "assignee_id": "u1",
+   "title": "Build email flows (Quill)",
+   "description": "",
+   "status": "in_progress",
+   "priority": "high",
+   "due_date": "2026-12-03",
+   "last_activity_at": "2026-10-08T10:00:00+00:00",
+   "time_consumed_min": 4000,
+   "comments": [
+    {
+     "user_id": "u1",
+     "text": "Working on it",
+     "at": "2026-10-08T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t124",
+   "project_id": "p12",
+   "assignee_id": "u15",
+   "title": "Negotiate courier rates (Quill)",
+   "description": "",
+   "status": "blocked",
+   "priority": "critical",
+   "due_date": "2026-10-11",
+   "last_activity_at": "2026-10-27T10:00:00+00:00",
+   "time_consumed_min": 480,
+   "comments": [
+    {
+     "user_id": "u15",
+     "text": "Working on it",
+     "at": "2026-10-27T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t125",
+   "project_id": "p12",
+   "assignee_id": "u33",
+   "title": "Migrate theme to 2.0 (Quill)",
+   "description": "",
+   "status": "done",
+   "priority": "high",
+   "due_date": null,
+   "last_activity_at": "2026-09-02T10:00:00+00:00",
+   "time_consumed_min": 1500,
+   "comments": [
+    {
+     "user_id": "u33",
+     "text": "Working on it",
+     "at": "2026-09-02T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t126",
+   "project_id": "p12",
+   "assignee_id": "u39",
+   "title": "Negotiate courier rates (Quill)",
+   "description": "",
+   "status": "in_progress",
+   "priority": "low",
+   "due_date": "2026-10-30",
+   "last_activity_at": "2026-07-30T10:00:00+00:00",
+   "time_consumed_min": 4000,
+   "comments": [
+    {
+     "user_id": "u39",
+     "text": "Blocked on API access",
+     "at": "2026-07-30T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t127",
+   "project_id": "p12",
+   "assignee_id": "u3",
+   "title": "Fix checkout bug (Quill)",
+   "description": "",
+   "status": "in_progress",
+   "priority": "critical",
+   "due_date": "2026-10-24",
+   "last_activity_at": "2026-10-25T10:00:00+00:00",
+   "time_consumed_min": 480,
+   "comments": [
+    {
+     "user_id": "u3",
+     "text": "Working on it",
+     "at": "2026-10-25T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t128",
+   "project_id": "p12",
+   "assignee_id": "u27",
+   "title": "Add size guide (Quill)",
+   "description": "",
+   "status": "done",
+   "priority": "medium",
+   "due_date": null,
+   "last_activity_at": "2026-09-14T10:00:00+00:00",
+   "time_consumed_min": 1500,
+   "comments": [
+    {
+     "user_id": "u27",
+     "text": "Working on it",
+     "at": "2026-09-14T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t129",
+   "project_id": "p13",
+   "assignee_id": "u32",
+   "title": "Redesign PDP (Zen)",
+   "description": "",
+   "status": "todo",
+   "priority": "high",
+   "due_date": "2026-11-07",
+   "last_activity_at": "2026-09-13T10:00:00+00:00",
+   "time_consumed_min": 30,
+   "comments": [
+    {
+     "user_id": "u32",
+     "text": "Almost done",
+     "at": "2026-09-13T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t130",
+   "project_id": "p13",
+   "assignee_id": "u35",
+   "title": "Migrate theme to 2.0 (Zen)",
+   "description": "",
+   "status": "in_progress",
+   "priority": "high",
+   "due_date": "2026-11-18",
+   "last_activity_at": "2026-10-27T10:00:00+00:00",
+   "time_consumed_min": 1500,
+   "comments": [
+    {
+     "user_id": "u35",
+     "text": "Almost done",
+     "at": "2026-10-27T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t131",
+   "project_id": "p13",
+   "assignee_id": "u20",
+   "title": "Create UGC video (Zen)",
+   "description": "",
+   "status": "blocked",
+   "priority": "critical",
+   "due_date": "2026-10-11",
+   "last_activity_at": "2026-10-18T10:00:00+00:00",
+   "time_consumed_min": 4000,
+   "comments": [
+    {
+     "user_id": "u20",
+     "text": "Almost done",
+     "at": "2026-10-18T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t132",
+   "project_id": "p13",
+   "assignee_id": "u2",
+   "title": "Add size guide (Zen)",
+   "description": "",
+   "status": "done",
+   "priority": "medium",
+   "due_date": null,
+   "last_activity_at": "2026-09-02T10:00:00+00:00",
+   "time_consumed_min": 12000,
+   "comments": [
+    {
+     "user_id": "u2",
+     "text": "Almost done",
+     "at": "2026-09-02T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t133",
+   "project_id": "p13",
+   "assignee_id": "u1",
+   "title": "Migrate theme to 2.0 (Zen)",
+   "description": "",
+   "status": "in_progress",
+   "priority": "high",
+   "due_date": "2026-12-04",
+   "last_activity_at": "2026-10-18T10:00:00+00:00",
+   "time_consumed_min": 30,
+   "comments": [
+    {
+     "user_id": "u1",
+     "text": "Working on it",
+     "at": "2026-10-18T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t134",
+   "project_id": "p13",
+   "assignee_id": "u37",
+   "title": "Add size guide (Zen)",
+   "description": "",
+   "status": "done",
+   "priority": "high",
+   "due_date": null,
+   "last_activity_at": "2026-09-01T10:00:00+00:00",
+   "time_consumed_min": 120,
+   "comments": [
+    {
+     "user_id": "u37",
+     "text": "Waiting for assets from design",
+     "at": "2026-09-01T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t135",
+   "project_id": "p13",
+   "assignee_id": "u4",
+   "title": "Inventory sync script (Zen)",
+   "description": "",
+   "status": "todo",
+   "priority": "low",
+   "due_date": "2026-10-17",
+   "last_activity_at": "2026-09-13T10:00:00+00:00",
+   "time_consumed_min": 4000,
+   "comments": [
+    {
+     "user_id": "u4",
+     "text": "Need clarification",
+     "at": "2026-09-13T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t136",
+   "project_id": "p13",
+   "assignee_id": "u10",
+   "title": "Migrate theme to 2.0 (Zen)",
+   "description": "",
+   "status": "in_progress",
+   "priority": "critical",
+   "due_date": "2026-10-26",
+   "last_activity_at": "2026-10-21T10:00:00+00:00",
+   "time_consumed_min": 120,
+   "comments": [
+    {
+     "user_id": "u10",
+     "text": "Working on it",
+     "at": "2026-10-21T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t137",
+   "project_id": "p13",
+   "assignee_id": "u25",
+   "title": "Negotiate courier rates (Zen)",
+   "description": "",
+   "status": "in_progress",
+   "priority": "medium",
+   "due_date": "2026-11-25",
+   "last_activity_at": "2026-10-08T10:00:00+00:00",
+   "time_consumed_min": 120,
+   "comments": [
+    {
+     "user_id": "u25",
+     "text": "Working on it",
+     "at": "2026-10-08T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t138",
+   "project_id": "p14",
+   "assignee_id": "u4",
+   "title": "Inventory sync script (Nano)",
+   "description": "",
+   "status": "done",
+   "priority": "low",
+   "due_date": null,
+   "last_activity_at": "2026-09-19T10:00:00+00:00",
+   "time_consumed_min": 120,
+   "comments": [
+    {
+     "user_id": "u4",
+     "text": "Waiting for assets from design",
+     "at": "2026-09-19T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t139",
+   "project_id": "p14",
+   "assignee_id": "u40",
+   "title": "Negotiate courier rates (Nano)",
+   "description": "",
+   "status": "done",
+   "priority": "high",
+   "due_date": null,
+   "last_activity_at": "2026-09-03T10:00:00+00:00",
+   "time_consumed_min": 120,
+   "comments": [
+    {
+     "user_id": "u40",
+     "text": "Need clarification",
+     "at": "2026-09-03T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t140",
+   "project_id": "p14",
+   "assignee_id": "u3",
+   "title": "SEO technical audit (Nano)",
+   "description": "",
+   "status": "in_progress",
+   "priority": "medium",
+   "due_date": "2026-12-07",
+   "last_activity_at": "2026-10-18T10:00:00+00:00",
+   "time_consumed_min": 12000,
+   "comments": [
+    {
+     "user_id": "u3",
+     "text": "Blocked on API access",
+     "at": "2026-10-18T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t141",
+   "project_id": "p14",
+   "assignee_id": "u10",
+   "title": "Negotiate courier rates (Nano)",
+   "description": "",
+   "status": "in_progress",
+   "priority": "low",
+   "due_date": "2026-11-23",
+   "last_activity_at": "2026-10-25T10:00:00+00:00",
+   "time_consumed_min": 0,
+   "comments": [
+    {
+     "user_id": "u10",
+     "text": "Blocked on API access",
+     "at": "2026-10-25T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t142",
+   "project_id": "p14",
+   "assignee_id": "u25",
+   "title": "Bundle offers (Nano)",
+   "description": "",
+   "status": "in_progress",
+   "priority": "medium",
+   "due_date": "2026-11-06",
+   "last_activity_at": "2026-07-30T10:00:00+00:00",
+   "time_consumed_min": 12000,
+   "comments": [
+    {
+     "user_id": "u25",
+     "text": "Blocked on API access",
+     "at": "2026-07-30T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t143",
+   "project_id": "p14",
+   "assignee_id": "u28",
+   "title": "Add size guide (Nano)",
+   "description": "",
+   "status": "in_progress",
+   "priority": "high",
+   "due_date": "2026-11-19",
+   "last_activity_at": "2026-10-18T10:00:00+00:00",
+   "time_consumed_min": 30000,
+   "comments": [
+    {
+     "user_id": "u28",
+     "text": "Waiting for assets from design",
+     "at": "2026-10-18T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t144",
+   "project_id": "p14",
+   "assignee_id": "u1",
+   "title": "Refund policy update (Nano)",
+   "description": "",
+   "status": "todo",
+   "priority": "medium",
+   "due_date": "2026-11-08",
+   "last_activity_at": "2026-07-30T10:00:00+00:00",
+   "time_consumed_min": 30000,
+   "comments": [
+    {
+     "user_id": "u1",
+     "text": "Need clarification",
+     "at": "2026-07-30T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t145",
+   "project_id": "p14",
+   "assignee_id": "u12",
+   "title": "Hire 2 support agents (Nano)",
+   "description": "",
+   "status": "done",
+   "priority": "high",
+   "due_date": null,
+   "last_activity_at": "2026-09-06T10:00:00+00:00",
+   "time_consumed_min": 30,
+   "comments": [
+    {
+     "user_id": "u12",
+     "text": "Working on it",
+     "at": "2026-09-06T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t146",
+   "project_id": "p14",
+   "assignee_id": "u23",
+   "title": "Redesign PDP (Nano)",
+   "description": "",
+   "status": "in_progress",
+   "priority": "high",
+   "due_date": "2026-10-31",
+   "last_activity_at": "2026-10-18T10:00:00+00:00",
+   "time_consumed_min": 0,
+   "comments": [
+    {
+     "user_id": "u23",
+     "text": "Working on it",
+     "at": "2026-10-18T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t147",
+   "project_id": "p14",
+   "assignee_id": "u6",
+   "title": "SEO technical audit (Nano)",
+   "description": "",
+   "status": "in_progress",
+   "priority": "low",
+   "due_date": "2026-11-26",
+   "last_activity_at": "2026-10-21T10:00:00+00:00",
+   "time_consumed_min": 0,
+   "comments": [
+    {
+     "user_id": "u6",
+     "text": "Need clarification",
+     "at": "2026-10-21T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t148",
+   "project_id": "p14",
+   "assignee_id": "u9",
+   "title": "Redesign PDP (Nano)",
+   "description": "",
+   "status": "done",
+   "priority": "critical",
+   "due_date": null,
+   "last_activity_at": "2026-10-26T10:00:00+00:00",
+   "time_consumed_min": 30,
+   "comments": [
+    {
+     "user_id": "u9",
+     "text": "Waiting for assets from design",
+     "at": "2026-10-26T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t149",
+   "project_id": "p14",
+   "assignee_id": "u32",
+   "title": "Migrate theme to 2.0 (Nano)",
+   "description": "",
+   "status": "in_progress",
+   "priority": "medium",
+   "due_date": "2026-11-28",
+   "last_activity_at": "2026-10-24T10:00:00+00:00",
+   "time_consumed_min": 30,
+   "comments": [
+    {
+     "user_id": "u32",
+     "text": "Blocked on API access",
+     "at": "2026-10-24T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t150",
+   "project_id": "p14",
+   "assignee_id": "u11",
+   "title": "Audit ad accounts (Nano)",
+   "description": "",
+   "status": "blocked",
+   "priority": "high",
+   "due_date": "2026-12-04",
+   "last_activity_at": "2026-10-21T10:00:00+00:00",
+   "time_consumed_min": 120,
+   "comments": [
+    {
+     "user_id": "u11",
+     "text": "Blocked on API access",
+     "at": "2026-10-21T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t151",
+   "project_id": "p15",
+   "assignee_id": "u14",
+   "title": "Audit ad accounts (11deeds)",
+   "description": "",
+   "status": "done",
+   "priority": "critical",
+   "due_date": null,
+   "last_activity_at": "2026-09-20T10:00:00+00:00",
+   "time_consumed_min": 480,
+   "comments": [
+    {
+     "user_id": "u14",
+     "text": "Blocked on API access",
+     "at": "2026-09-20T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t152",
+   "project_id": "p15",
+   "assignee_id": "u3",
+   "title": "Migrate theme to 2.0 (11deeds)",
+   "description": "",
+   "status": "done",
+   "priority": "high",
+   "due_date": null,
+   "last_activity_at": "2026-10-15T10:00:00+00:00",
+   "time_consumed_min": 120,
+   "comments": [
+    {
+     "user_id": "u3",
+     "text": "Blocked on API access",
+     "at": "2026-10-15T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t153",
+   "project_id": "p15",
+   "assignee_id": "u25",
+   "title": "Audit ad accounts (11deeds)",
+   "description": "",
+   "status": "done",
+   "priority": "low",
+   "due_date": null,
+   "last_activity_at": "2026-10-17T10:00:00+00:00",
+   "time_consumed_min": 0,
+   "comments": [
+    {
+     "user_id": "u25",
+     "text": "Blocked on API access",
+     "at": "2026-10-17T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t154",
+   "project_id": "p15",
+   "assignee_id": "u36",
+   "title": "Write 10 blog posts (11deeds)",
+   "description": "",
+   "status": "done",
+   "priority": "medium",
+   "due_date": null,
+   "last_activity_at": "2026-09-24T10:00:00+00:00",
+   "time_consumed_min": 12000,
+   "comments": [
+    {
+     "user_id": "u36",
+     "text": "Blocked on API access",
+     "at": "2026-09-24T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t155",
+   "project_id": "p15",
+   "assignee_id": "u25",
+   "title": "Set up GA4 events (11deeds)",
+   "description": "",
+   "status": "blocked",
+   "priority": "medium",
+   "due_date": "2026-11-13",
+   "last_activity_at": "2026-10-21T10:00:00+00:00",
+   "time_consumed_min": 4000,
+   "comments": [
+    {
+     "user_id": "u25",
+     "text": "Working on it",
+     "at": "2026-10-21T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t156",
+   "project_id": "p15",
+   "assignee_id": "u15",
+   "title": "Fix checkout bug (11deeds)",
+   "description": "",
+   "status": "done",
+   "priority": "medium",
+   "due_date": null,
+   "last_activity_at": "2026-10-16T10:00:00+00:00",
+   "time_consumed_min": 1500,
+   "comments": [
+    {
+     "user_id": "u15",
+     "text": "Blocked on API access",
+     "at": "2026-10-16T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t157",
+   "project_id": "p15",
+   "assignee_id": "u1",
+   "title": "Fix checkout bug (11deeds)",
+   "description": "",
+   "status": "done",
+   "priority": "medium",
+   "due_date": null,
+   "last_activity_at": "2026-09-10T10:00:00+00:00",
+   "time_consumed_min": 120,
+   "comments": [
+    {
+     "user_id": "u1",
+     "text": "Blocked on API access",
+     "at": "2026-09-10T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t158",
+   "project_id": "p15",
+   "assignee_id": "u27",
+   "title": "Add size guide (11deeds)",
+   "description": "",
+   "status": "done",
+   "priority": "low",
+   "due_date": null,
+   "last_activity_at": "2026-09-25T10:00:00+00:00",
+   "time_consumed_min": 120,
+   "comments": [
+    {
+     "user_id": "u27",
+     "text": "Almost done",
+     "at": "2026-09-25T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t159",
+   "project_id": "p15",
+   "assignee_id": "u40",
+   "title": "Launch Diwali campaign (11deeds)",
+   "description": "",
+   "status": "in_progress",
+   "priority": "low",
+   "due_date": "2026-10-10",
+   "last_activity_at": "2026-05-01T10:00:00+00:00",
+   "time_consumed_min": 0,
+   "comments": [
+    {
+     "user_id": "u40",
+     "text": "Need clarification",
+     "at": "2026-05-01T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t160",
+   "project_id": "p15",
+   "assignee_id": "u20",
+   "title": "SEO technical audit (11deeds)",
+   "description": "",
+   "status": "done",
+   "priority": "medium",
+   "due_date": null,
+   "last_activity_at": "2026-10-21T10:00:00+00:00",
+   "time_consumed_min": 480,
+   "comments": [
+    {
+     "user_id": "u20",
+     "text": "Almost done",
+     "at": "2026-10-21T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t161",
+   "project_id": "p15",
+   "assignee_id": "u38",
+   "title": "Add size guide (11deeds)",
+   "description": "",
+   "status": "blocked",
+   "priority": "critical",
+   "due_date": "2026-10-21",
+   "last_activity_at": "2026-10-26T10:00:00+00:00",
+   "time_consumed_min": 30000,
+   "comments": [
+    {
+     "user_id": "u38",
+     "text": "Waiting for assets from design",
+     "at": "2026-10-26T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t162",
+   "project_id": "p15",
+   "assignee_id": "u1",
+   "title": "Set up GA4 events (11deeds)",
+   "description": "",
+   "status": "in_progress",
+   "priority": "high",
+   "due_date": "2026-11-22",
+   "last_activity_at": "2026-10-25T10:00:00+00:00",
+   "time_consumed_min": 30,
+   "comments": [
+    {
+     "user_id": "u1",
+     "text": "Working on it",
+     "at": "2026-10-25T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t163",
+   "project_id": "p15",
+   "assignee_id": "u18",
+   "title": "Audit ad accounts (11deeds)",
+   "description": "",
+   "status": "in_progress",
+   "priority": "low",
+   "due_date": "2026-11-28",
+   "last_activity_at": "2026-10-18T10:00:00+00:00",
+   "time_consumed_min": 0,
+   "comments": [
+    {
+     "user_id": "u18",
+     "text": "Need clarification",
+     "at": "2026-10-18T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t164",
+   "project_id": "p15",
+   "assignee_id": "u39",
+   "title": "Refund policy update (11deeds)",
+   "description": "",
+   "status": "done",
+   "priority": "critical",
+   "due_date": null,
+   "last_activity_at": "2026-09-16T10:00:00+00:00",
+   "time_consumed_min": 30000,
+   "comments": [
+    {
+     "user_id": "u39",
+     "text": "Waiting for assets from design",
+     "at": "2026-09-16T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t165",
+   "project_id": "p16",
+   "assignee_id": "u3",
+   "title": "Launch Diwali campaign (11matrix)",
+   "description": "",
+   "status": "todo",
+   "priority": "high",
+   "due_date": "2026-11-11",
+   "last_activity_at": "2026-10-28T10:00:00+00:00",
+   "time_consumed_min": 120,
+   "comments": [
+    {
+     "user_id": "u3",
+     "text": "Waiting for assets from design",
+     "at": "2026-10-28T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t166",
+   "project_id": "p16",
+   "assignee_id": "u4",
+   "title": "Bundle offers (11matrix)",
+   "description": "",
+   "status": "in_progress",
+   "priority": "medium",
+   "due_date": "2026-10-08",
+   "last_activity_at": "2026-10-27T10:00:00+00:00",
+   "time_consumed_min": 120,
+   "comments": [
+    {
+     "user_id": "u4",
+     "text": "Almost done",
+     "at": "2026-10-27T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t167",
+   "project_id": "p16",
+   "assignee_id": "u34",
+   "title": "SEO technical audit (11matrix)",
+   "description": "",
+   "status": "in_progress",
+   "priority": "high",
+   "due_date": "2026-11-18",
+   "last_activity_at": "2026-07-30T10:00:00+00:00",
+   "time_consumed_min": 120,
+   "comments": [
+    {
+     "user_id": "u34",
+     "text": "Need clarification",
+     "at": "2026-07-30T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t168",
+   "project_id": "p16",
+   "assignee_id": "u5",
+   "title": "Fix checkout bug (11matrix)",
+   "description": "",
+   "status": "blocked",
+   "priority": "high",
+   "due_date": "2026-11-17",
+   "last_activity_at": "2026-10-24T10:00:00+00:00",
+   "time_consumed_min": 0,
+   "comments": [
+    {
+     "user_id": "u5",
+     "text": "Almost done",
+     "at": "2026-10-24T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t169",
+   "project_id": "p16",
+   "assignee_id": "u30",
+   "title": "Refund policy update (11matrix)",
+   "description": "",
+   "status": "done",
+   "priority": "medium",
+   "due_date": null,
+   "last_activity_at": "2026-10-22T10:00:00+00:00",
+   "time_consumed_min": 480,
+   "comments": [
+    {
+     "user_id": "u30",
+     "text": "Working on it",
+     "at": "2026-10-22T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t170",
+   "project_id": "p16",
+   "assignee_id": "u15",
+   "title": "Write 10 blog posts (11matrix)",
+   "description": "",
+   "status": "blocked",
+   "priority": "medium",
+   "due_date": "2026-10-10",
+   "last_activity_at": "2026-05-01T10:00:00+00:00",
+   "time_consumed_min": 1500,
+   "comments": [
+    {
+     "user_id": "u15",
+     "text": "Working on it",
+     "at": "2026-05-01T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t171",
+   "project_id": "p16",
+   "assignee_id": "u36",
+   "title": "SEO technical audit (11matrix)",
+   "description": "",
+   "status": "blocked",
+   "priority": "medium",
+   "due_date": "2026-11-04",
+   "last_activity_at": "2026-05-01T10:00:00+00:00",
+   "time_consumed_min": 1500,
+   "comments": [
+    {
+     "user_id": "u36",
+     "text": "Waiting for assets from design",
+     "at": "2026-05-01T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t172",
+   "project_id": "p16",
+   "assignee_id": "u33",
+   "title": "Audit ad accounts (11matrix)",
+   "description": "",
+   "status": "in_progress",
+   "priority": "medium",
+   "due_date": "2026-10-18",
+   "last_activity_at": "2026-10-28T10:00:00+00:00",
+   "time_consumed_min": 480,
+   "comments": [
+    {
+     "user_id": "u33",
+     "text": "Waiting for assets from design",
+     "at": "2026-10-28T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t173",
+   "project_id": "p17",
+   "assignee_id": "u25",
+   "title": "Build email flows (Internal)",
+   "description": "",
+   "status": "in_progress",
+   "priority": "high",
+   "due_date": "2026-11-15",
+   "last_activity_at": "2026-10-21T10:00:00+00:00",
+   "time_consumed_min": 30000,
+   "comments": [
+    {
+     "user_id": "u25",
+     "text": "Almost done",
+     "at": "2026-10-21T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t174",
+   "project_id": "p17",
+   "assignee_id": "u2",
+   "title": "Build email flows (Internal)",
+   "description": "",
+   "status": "todo",
+   "priority": "critical",
+   "due_date": "2026-11-23",
+   "last_activity_at": "2026-10-18T10:00:00+00:00",
+   "time_consumed_min": 1500,
+   "comments": [
+    {
+     "user_id": "u2",
+     "text": "Waiting for assets from design",
+     "at": "2026-10-18T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t175",
+   "project_id": "p17",
+   "assignee_id": "u40",
+   "title": "Redesign PDP (Internal)",
+   "description": "",
+   "status": "done",
+   "priority": "critical",
+   "due_date": null,
+   "last_activity_at": "2026-09-20T10:00:00+00:00",
+   "time_consumed_min": 120,
+   "comments": [
+    {
+     "user_id": "u40",
+     "text": "Waiting for assets from design",
+     "at": "2026-09-20T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t176",
+   "project_id": "p17",
+   "assignee_id": "u2",
+   "title": "Migrate theme to 2.0 (Internal)",
+   "description": "",
+   "status": "todo",
+   "priority": "medium",
+   "due_date": "2026-10-14",
+   "last_activity_at": "2026-10-27T10:00:00+00:00",
+   "time_consumed_min": 120,
+   "comments": [
+    {
+     "user_id": "u2",
+     "text": "Working on it",
+     "at": "2026-10-27T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t177",
+   "project_id": "p17",
+   "assignee_id": "u3",
+   "title": "Fix checkout bug (Internal)",
+   "description": "",
+   "status": "todo",
+   "priority": "low",
+   "due_date": "2026-11-21",
+   "last_activity_at": "2026-10-26T10:00:00+00:00",
+   "time_consumed_min": 0,
+   "comments": [
+    {
+     "user_id": "u3",
+     "text": "Working on it",
+     "at": "2026-10-26T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t178",
+   "project_id": "p17",
+   "assignee_id": "u13",
+   "title": "Bundle offers (Internal)",
+   "description": "",
+   "status": "done",
+   "priority": "low",
+   "due_date": null,
+   "last_activity_at": "2026-09-05T10:00:00+00:00",
+   "time_consumed_min": 12000,
+   "comments": [
+    {
+     "user_id": "u13",
+     "text": "Working on it",
+     "at": "2026-09-05T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t179",
+   "project_id": "p17",
+   "assignee_id": "u14",
+   "title": "Fix checkout bug (Internal)",
+   "description": "",
+   "status": "in_progress",
+   "priority": "low",
+   "due_date": "2026-10-15",
+   "last_activity_at": "2026-10-25T10:00:00+00:00",
+   "time_consumed_min": 30,
+   "comments": [
+    {
+     "user_id": "u14",
+     "text": "Blocked on API access",
+     "at": "2026-10-25T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t180",
+   "project_id": "p17",
+   "assignee_id": "u7",
+   "title": "Write 10 blog posts (Internal)",
+   "description": "",
+   "status": "done",
+   "priority": "medium",
+   "due_date": null,
+   "last_activity_at": "2026-10-19T10:00:00+00:00",
+   "time_consumed_min": 1500,
+   "comments": [
+    {
+     "user_id": "u7",
+     "text": "Blocked on API access",
+     "at": "2026-10-19T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t181",
+   "project_id": "p17",
+   "assignee_id": "u28",
+   "title": "Launch Diwali campaign (Internal)",
+   "description": "",
+   "status": "done",
+   "priority": "medium",
+   "due_date": null,
+   "last_activity_at": "2026-10-11T10:00:00+00:00",
+   "time_consumed_min": 1500,
+   "comments": [
+    {
+     "user_id": "u28",
+     "text": "Blocked on API access",
+     "at": "2026-10-11T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t182",
+   "project_id": "p17",
+   "assignee_id": "u24",
+   "title": "SEO technical audit (Internal)",
+   "description": "",
+   "status": "todo",
+   "priority": "high",
+   "due_date": "2026-11-26",
+   "last_activity_at": "2026-10-21T10:00:00+00:00",
+   "time_consumed_min": 1500,
+   "comments": [
+    {
+     "user_id": "u24",
+     "text": "Need clarification",
+     "at": "2026-10-21T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t183",
+   "project_id": "p17",
+   "assignee_id": "u27",
+   "title": "SEO technical audit (Internal)",
+   "description": "",
+   "status": "todo",
+   "priority": "low",
+   "due_date": "2026-11-04",
+   "last_activity_at": "2026-10-28T10:00:00+00:00",
+   "time_consumed_min": 4000,
+   "comments": [
+    {
+     "user_id": "u27",
+     "text": "Almost done",
+     "at": "2026-10-28T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t184",
+   "project_id": "p18",
+   "assignee_id": "u6",
+   "title": "Create UGC video (Brand)",
+   "description": "",
+   "status": "in_progress",
+   "priority": "medium",
+   "due_date": "2026-11-29",
+   "last_activity_at": "2026-07-30T10:00:00+00:00",
+   "time_consumed_min": 12000,
+   "comments": [
+    {
+     "user_id": "u6",
+     "text": "Working on it",
+     "at": "2026-07-30T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t185",
+   "project_id": "p18",
+   "assignee_id": "u19",
+   "title": "Add size guide (Brand)",
+   "description": "",
+   "status": "in_progress",
+   "priority": "high",
+   "due_date": "2026-10-08",
+   "last_activity_at": "2026-10-28T10:00:00+00:00",
+   "time_consumed_min": 30,
+   "comments": [
+    {
+     "user_id": "u19",
+     "text": "Almost done",
+     "at": "2026-10-28T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t186",
+   "project_id": "p18",
+   "assignee_id": "u32",
+   "title": "SEO technical audit (Brand)",
+   "description": "",
+   "status": "in_progress",
+   "priority": "medium",
+   "due_date": "2026-10-30",
+   "last_activity_at": "2026-07-30T10:00:00+00:00",
+   "time_consumed_min": 120,
+   "comments": [
+    {
+     "user_id": "u32",
+     "text": "Blocked on API access",
+     "at": "2026-07-30T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t187",
+   "project_id": "p18",
+   "assignee_id": "u15",
+   "title": "Write 10 blog posts (Brand)",
+   "description": "",
+   "status": "in_progress",
+   "priority": "low",
+   "due_date": "2026-10-18",
+   "last_activity_at": "2026-10-08T10:00:00+00:00",
+   "time_consumed_min": 30000,
+   "comments": [
+    {
+     "user_id": "u15",
+     "text": "Need clarification",
+     "at": "2026-10-08T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t188",
+   "project_id": "p18",
+   "assignee_id": "u21",
+   "title": "Inventory sync script (Brand)",
+   "description": "",
+   "status": "in_progress",
+   "priority": "high",
+   "due_date": "2026-10-14",
+   "last_activity_at": "2026-10-21T10:00:00+00:00",
+   "time_consumed_min": 30,
+   "comments": [
+    {
+     "user_id": "u21",
+     "text": "Almost done",
+     "at": "2026-10-21T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "t189",
+   "project_id": "p18",
+   "assignee_id": "u24",
+   "title": "Audit ad accounts (Brand)",
+   "description": "",
+   "status": "todo",
+   "priority": "high",
+   "due_date": "2026-10-27",
+   "last_activity_at": "2026-10-25T10:00:00+00:00",
+   "time_consumed_min": 120,
+   "comments": [
+    {
+     "user_id": "u24",
+     "text": "Almost done",
+     "at": "2026-10-25T11:00:00+00:00"
+    }
+   ]
+  }
+ ],
+ "attendance": [
+  {
+   "user_id": "u1",
+   "date": "2026-10-27",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 45
+  },
+  {
+   "user_id": "u1",
+   "date": "2026-10-26",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 90
+  },
+  {
+   "user_id": "u1",
+   "date": "2026-10-25",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 45
+  },
+  {
+   "user_id": "u1",
+   "date": "2026-10-24",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 30
+  },
+  {
+   "user_id": "u1",
+   "date": "2026-10-23",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 60
+  },
+  {
+   "user_id": "u2",
+   "date": "2026-10-27",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 60
+  },
+  {
+   "user_id": "u2",
+   "date": "2026-10-26",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 45
+  },
+  {
+   "user_id": "u2",
+   "date": "2026-10-25",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 90
+  },
+  {
+   "user_id": "u2",
+   "date": "2026-10-24",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 60
+  },
+  {
+   "user_id": "u2",
+   "date": "2026-10-23",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 45
+  },
+  {
+   "user_id": "u3",
+   "date": "2026-10-27",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 90
+  },
+  {
+   "user_id": "u3",
+   "date": "2026-10-26",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 90
+  },
+  {
+   "user_id": "u3",
+   "date": "2026-10-25",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 60
+  },
+  {
+   "user_id": "u3",
+   "date": "2026-10-24",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 45
+  },
+  {
+   "user_id": "u3",
+   "date": "2026-10-23",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 45
+  },
+  {
+   "user_id": "u4",
+   "date": "2026-10-27",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 60
+  },
+  {
+   "user_id": "u4",
+   "date": "2026-10-26",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 90
+  },
+  {
+   "user_id": "u4",
+   "date": "2026-10-25",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 45
+  },
+  {
+   "user_id": "u4",
+   "date": "2026-10-24",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 45
+  },
+  {
+   "user_id": "u4",
+   "date": "2026-10-23",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 60
+  },
+  {
+   "user_id": "u5",
+   "date": "2026-10-27",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 60
+  },
+  {
+   "user_id": "u5",
+   "date": "2026-10-26",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 45
+  },
+  {
+   "user_id": "u5",
+   "date": "2026-10-25",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 45
+  },
+  {
+   "user_id": "u5",
+   "date": "2026-10-24",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 45
+  },
+  {
+   "user_id": "u5",
+   "date": "2026-10-23",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 60
+  },
+  {
+   "user_id": "u6",
+   "date": "2026-10-27",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 60
+  },
+  {
+   "user_id": "u6",
+   "date": "2026-10-26",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 45
+  },
+  {
+   "user_id": "u6",
+   "date": "2026-10-25",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 45
+  },
+  {
+   "user_id": "u6",
+   "date": "2026-10-24",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 60
+  },
+  {
+   "user_id": "u6",
+   "date": "2026-10-23",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 45
+  },
+  {
+   "user_id": "u7",
+   "date": "2026-10-27",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 60
+  },
+  {
+   "user_id": "u7",
+   "date": "2026-10-26",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 30
+  },
+  {
+   "user_id": "u7",
+   "date": "2026-10-25",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 45
+  },
+  {
+   "user_id": "u7",
+   "date": "2026-10-24",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 30
+  },
+  {
+   "user_id": "u7",
+   "date": "2026-10-23",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 45
+  },
+  {
+   "user_id": "u8",
+   "date": "2026-10-27",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 90
+  },
+  {
+   "user_id": "u8",
+   "date": "2026-10-26",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 45
+  },
+  {
+   "user_id": "u8",
+   "date": "2026-10-25",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 45
+  },
+  {
+   "user_id": "u8",
+   "date": "2026-10-24",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 60
+  },
+  {
+   "user_id": "u8",
+   "date": "2026-10-23",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 60
+  },
+  {
+   "user_id": "u9",
+   "date": "2026-10-27",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 90
+  },
+  {
+   "user_id": "u9",
+   "date": "2026-10-26",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 60
+  },
+  {
+   "user_id": "u9",
+   "date": "2026-10-25",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 45
+  },
+  {
+   "user_id": "u9",
+   "date": "2026-10-24",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 30
+  },
+  {
+   "user_id": "u9",
+   "date": "2026-10-23",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 30
+  },
+  {
+   "user_id": "u10",
+   "date": "2026-10-27",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 60
+  },
+  {
+   "user_id": "u10",
+   "date": "2026-10-26",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 45
+  },
+  {
+   "user_id": "u10",
+   "date": "2026-10-25",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 90
+  },
+  {
+   "user_id": "u10",
+   "date": "2026-10-24",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 90
+  },
+  {
+   "user_id": "u10",
+   "date": "2026-10-23",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 30
+  },
+  {
+   "user_id": "u11",
+   "date": "2026-10-27",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 30
+  },
+  {
+   "user_id": "u11",
+   "date": "2026-10-26",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 90
+  },
+  {
+   "user_id": "u11",
+   "date": "2026-10-25",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 90
+  },
+  {
+   "user_id": "u11",
+   "date": "2026-10-24",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 45
+  },
+  {
+   "user_id": "u11",
+   "date": "2026-10-23",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 60
+  },
+  {
+   "user_id": "u12",
+   "date": "2026-10-27",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 90
+  },
+  {
+   "user_id": "u12",
+   "date": "2026-10-26",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 30
+  },
+  {
+   "user_id": "u12",
+   "date": "2026-10-25",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 45
+  },
+  {
+   "user_id": "u12",
+   "date": "2026-10-24",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 60
+  },
+  {
+   "user_id": "u12",
+   "date": "2026-10-23",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 90
+  },
+  {
+   "user_id": "u13",
+   "date": "2026-10-27",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 30
+  },
+  {
+   "user_id": "u13",
+   "date": "2026-10-26",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 45
+  },
+  {
+   "user_id": "u13",
+   "date": "2026-10-25",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 90
+  },
+  {
+   "user_id": "u13",
+   "date": "2026-10-24",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 90
+  },
+  {
+   "user_id": "u13",
+   "date": "2026-10-23",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 45
+  },
+  {
+   "user_id": "u14",
+   "date": "2026-10-27",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 45
+  },
+  {
+   "user_id": "u14",
+   "date": "2026-10-26",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 45
+  },
+  {
+   "user_id": "u14",
+   "date": "2026-10-25",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 30
+  },
+  {
+   "user_id": "u14",
+   "date": "2026-10-24",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 90
+  },
+  {
+   "user_id": "u14",
+   "date": "2026-10-23",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 90
+  },
+  {
+   "user_id": "u15",
+   "date": "2026-10-27",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 60
+  },
+  {
+   "user_id": "u15",
+   "date": "2026-10-26",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 60
+  },
+  {
+   "user_id": "u15",
+   "date": "2026-10-25",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 30
+  },
+  {
+   "user_id": "u15",
+   "date": "2026-10-24",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 90
+  },
+  {
+   "user_id": "u15",
+   "date": "2026-10-23",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 45
+  },
+  {
+   "user_id": "u16",
+   "date": "2026-10-27",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 90
+  },
+  {
+   "user_id": "u16",
+   "date": "2026-10-26",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 45
+  },
+  {
+   "user_id": "u16",
+   "date": "2026-10-25",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 60
+  },
+  {
+   "user_id": "u16",
+   "date": "2026-10-24",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 90
+  },
+  {
+   "user_id": "u16",
+   "date": "2026-10-23",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 90
+  },
+  {
+   "user_id": "u17",
+   "date": "2026-10-27",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 90
+  },
+  {
+   "user_id": "u17",
+   "date": "2026-10-26",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 30
+  },
+  {
+   "user_id": "u17",
+   "date": "2026-10-25",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 90
+  },
+  {
+   "user_id": "u17",
+   "date": "2026-10-24",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 45
+  },
+  {
+   "user_id": "u17",
+   "date": "2026-10-23",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 60
+  },
+  {
+   "user_id": "u18",
+   "date": "2026-10-27",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 30
+  },
+  {
+   "user_id": "u18",
+   "date": "2026-10-26",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 90
+  },
+  {
+   "user_id": "u18",
+   "date": "2026-10-25",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 90
+  },
+  {
+   "user_id": "u18",
+   "date": "2026-10-24",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 30
+  },
+  {
+   "user_id": "u18",
+   "date": "2026-10-23",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 30
+  },
+  {
+   "user_id": "u19",
+   "date": "2026-10-27",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 60
+  },
+  {
+   "user_id": "u19",
+   "date": "2026-10-26",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 45
+  },
+  {
+   "user_id": "u19",
+   "date": "2026-10-25",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 45
+  },
+  {
+   "user_id": "u19",
+   "date": "2026-10-24",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 45
+  },
+  {
+   "user_id": "u19",
+   "date": "2026-10-23",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 60
+  },
+  {
+   "user_id": "u20",
+   "date": "2026-10-27",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 30
+  },
+  {
+   "user_id": "u20",
+   "date": "2026-10-26",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 90
+  },
+  {
+   "user_id": "u20",
+   "date": "2026-10-25",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 45
+  },
+  {
+   "user_id": "u20",
+   "date": "2026-10-24",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 90
+  },
+  {
+   "user_id": "u20",
+   "date": "2026-10-23",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 30
+  },
+  {
+   "user_id": "u21",
+   "date": "2026-10-27",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 60
+  },
+  {
+   "user_id": "u21",
+   "date": "2026-10-26",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 60
+  },
+  {
+   "user_id": "u21",
+   "date": "2026-10-25",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 90
+  },
+  {
+   "user_id": "u21",
+   "date": "2026-10-24",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 90
+  },
+  {
+   "user_id": "u21",
+   "date": "2026-10-23",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 45
+  },
+  {
+   "user_id": "u22",
+   "date": "2026-10-27",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 45
+  },
+  {
+   "user_id": "u22",
+   "date": "2026-10-26",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 90
+  },
+  {
+   "user_id": "u22",
+   "date": "2026-10-25",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 30
+  },
+  {
+   "user_id": "u22",
+   "date": "2026-10-24",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 60
+  },
+  {
+   "user_id": "u22",
+   "date": "2026-10-23",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 30
+  },
+  {
+   "user_id": "u23",
+   "date": "2026-10-27",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 60
+  },
+  {
+   "user_id": "u23",
+   "date": "2026-10-26",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 60
+  },
+  {
+   "user_id": "u23",
+   "date": "2026-10-25",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 90
+  },
+  {
+   "user_id": "u23",
+   "date": "2026-10-24",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 90
+  },
+  {
+   "user_id": "u23",
+   "date": "2026-10-23",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 30
+  },
+  {
+   "user_id": "u24",
+   "date": "2026-10-27",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 30
+  },
+  {
+   "user_id": "u24",
+   "date": "2026-10-26",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 30
+  },
+  {
+   "user_id": "u24",
+   "date": "2026-10-25",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 90
+  },
+  {
+   "user_id": "u24",
+   "date": "2026-10-24",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 90
+  },
+  {
+   "user_id": "u24",
+   "date": "2026-10-23",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 60
+  },
+  {
+   "user_id": "u25",
+   "date": "2026-10-27",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 60
+  },
+  {
+   "user_id": "u25",
+   "date": "2026-10-26",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 30
+  },
+  {
+   "user_id": "u25",
+   "date": "2026-10-25",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 45
+  },
+  {
+   "user_id": "u25",
+   "date": "2026-10-24",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 60
+  },
+  {
+   "user_id": "u25",
+   "date": "2026-10-23",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 90
+  },
+  {
+   "user_id": "u26",
+   "date": "2026-10-27",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 45
+  },
+  {
+   "user_id": "u26",
+   "date": "2026-10-26",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 90
+  },
+  {
+   "user_id": "u26",
+   "date": "2026-10-25",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 90
+  },
+  {
+   "user_id": "u26",
+   "date": "2026-10-24",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 45
+  },
+  {
+   "user_id": "u26",
+   "date": "2026-10-23",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 45
+  },
+  {
+   "user_id": "u27",
+   "date": "2026-10-27",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 45
+  },
+  {
+   "user_id": "u27",
+   "date": "2026-10-26",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 30
+  },
+  {
+   "user_id": "u27",
+   "date": "2026-10-25",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 45
+  },
+  {
+   "user_id": "u27",
+   "date": "2026-10-24",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 90
+  },
+  {
+   "user_id": "u27",
+   "date": "2026-10-23",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 45
+  },
+  {
+   "user_id": "u28",
+   "date": "2026-10-27",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 45
+  },
+  {
+   "user_id": "u28",
+   "date": "2026-10-26",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 60
+  },
+  {
+   "user_id": "u28",
+   "date": "2026-10-25",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 90
+  },
+  {
+   "user_id": "u28",
+   "date": "2026-10-24",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 90
+  },
+  {
+   "user_id": "u28",
+   "date": "2026-10-23",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 60
+  },
+  {
+   "user_id": "u29",
+   "date": "2026-10-27",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 45
+  },
+  {
+   "user_id": "u29",
+   "date": "2026-10-26",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 90
+  },
+  {
+   "user_id": "u29",
+   "date": "2026-10-25",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 60
+  },
+  {
+   "user_id": "u29",
+   "date": "2026-10-24",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 45
+  },
+  {
+   "user_id": "u29",
+   "date": "2026-10-23",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 60
+  },
+  {
+   "user_id": "u30",
+   "date": "2026-10-27",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 90
+  },
+  {
+   "user_id": "u30",
+   "date": "2026-10-26",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 60
+  },
+  {
+   "user_id": "u30",
+   "date": "2026-10-25",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 90
+  },
+  {
+   "user_id": "u30",
+   "date": "2026-10-24",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 45
+  },
+  {
+   "user_id": "u30",
+   "date": "2026-10-23",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 90
+  },
+  {
+   "user_id": "u31",
+   "date": "2026-10-27",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 30
+  },
+  {
+   "user_id": "u31",
+   "date": "2026-10-26",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 60
+  },
+  {
+   "user_id": "u31",
+   "date": "2026-10-25",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 60
+  },
+  {
+   "user_id": "u31",
+   "date": "2026-10-24",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 45
+  },
+  {
+   "user_id": "u31",
+   "date": "2026-10-23",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 60
+  },
+  {
+   "user_id": "u32",
+   "date": "2026-10-27",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 60
+  },
+  {
+   "user_id": "u32",
+   "date": "2026-10-26",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 90
+  },
+  {
+   "user_id": "u32",
+   "date": "2026-10-25",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 90
+  },
+  {
+   "user_id": "u32",
+   "date": "2026-10-24",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 90
+  },
+  {
+   "user_id": "u32",
+   "date": "2026-10-23",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 30
+  },
+  {
+   "user_id": "u33",
+   "date": "2026-10-27",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 60
+  },
+  {
+   "user_id": "u33",
+   "date": "2026-10-26",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 45
+  },
+  {
+   "user_id": "u33",
+   "date": "2026-10-25",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 60
+  },
+  {
+   "user_id": "u33",
+   "date": "2026-10-24",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 90
+  },
+  {
+   "user_id": "u33",
+   "date": "2026-10-23",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 30
+  },
+  {
+   "user_id": "u34",
+   "date": "2026-10-27",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 30
+  },
+  {
+   "user_id": "u34",
+   "date": "2026-10-26",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 60
+  },
+  {
+   "user_id": "u34",
+   "date": "2026-10-25",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 45
+  },
+  {
+   "user_id": "u34",
+   "date": "2026-10-24",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 60
+  },
+  {
+   "user_id": "u34",
+   "date": "2026-10-23",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 30
+  },
+  {
+   "user_id": "u35",
+   "date": "2026-10-27",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 30
+  },
+  {
+   "user_id": "u35",
+   "date": "2026-10-26",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 45
+  },
+  {
+   "user_id": "u35",
+   "date": "2026-10-25",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 30
+  },
+  {
+   "user_id": "u35",
+   "date": "2026-10-24",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 60
+  },
+  {
+   "user_id": "u35",
+   "date": "2026-10-23",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 60
+  },
+  {
+   "user_id": "u36",
+   "date": "2026-10-27",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 30
+  },
+  {
+   "user_id": "u36",
+   "date": "2026-10-26",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 45
+  },
+  {
+   "user_id": "u36",
+   "date": "2026-10-25",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 45
+  },
+  {
+   "user_id": "u36",
+   "date": "2026-10-24",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 45
+  },
+  {
+   "user_id": "u36",
+   "date": "2026-10-23",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 90
+  },
+  {
+   "user_id": "u37",
+   "date": "2026-10-27",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 60
+  },
+  {
+   "user_id": "u37",
+   "date": "2026-10-26",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 45
+  },
+  {
+   "user_id": "u37",
+   "date": "2026-10-25",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 45
+  },
+  {
+   "user_id": "u37",
+   "date": "2026-10-24",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 90
+  },
+  {
+   "user_id": "u37",
+   "date": "2026-10-23",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 45
+  },
+  {
+   "user_id": "u38",
+   "date": "2026-10-27",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 30
+  },
+  {
+   "user_id": "u38",
+   "date": "2026-10-26",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 60
+  },
+  {
+   "user_id": "u38",
+   "date": "2026-10-25",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 45
+  },
+  {
+   "user_id": "u38",
+   "date": "2026-10-24",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 90
+  },
+  {
+   "user_id": "u38",
+   "date": "2026-10-23",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 45
+  },
+  {
+   "user_id": "u39",
+   "date": "2026-10-27",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 30
+  },
+  {
+   "user_id": "u39",
+   "date": "2026-10-26",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 90
+  },
+  {
+   "user_id": "u39",
+   "date": "2026-10-25",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 30
+  },
+  {
+   "user_id": "u39",
+   "date": "2026-10-24",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 30
+  },
+  {
+   "user_id": "u39",
+   "date": "2026-10-23",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 60
+  },
+  {
+   "user_id": "u40",
+   "date": "2026-10-27",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 90
+  },
+  {
+   "user_id": "u40",
+   "date": "2026-10-26",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 45
+  },
+  {
+   "user_id": "u40",
+   "date": "2026-10-25",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 45
+  },
+  {
+   "user_id": "u40",
+   "date": "2026-10-24",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 90
+  },
+  {
+   "user_id": "u40",
+   "date": "2026-10-23",
+   "check_in": "09:30",
+   "check_out": "18:30",
+   "break_min": 90
+  }
+ ]
+}
